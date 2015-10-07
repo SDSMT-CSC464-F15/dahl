@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.24)  1 OCT 2015 15:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.24)  6 OCT 2015 10:25
 entering extended mode
 **SoftwareContract.tex
 (SoftwareContract.tex
@@ -314,35 +314,35 @@ LaTeX Info: Redefining \nameref on input line 12.
 {C:/Users/7057627/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 [2] [3]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 146.
+(Font)              <10.95> on input line 139.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 146.
+(Font)              <8> on input line 139.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 146.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 158.
- [4] [5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 158.
+(Font)              <6> on input line 139.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 151.
+ [4]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 151.
  (SoftwareContract.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 158.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 158.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 151.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 151.
 Package rerunfilecheck Info: File `SoftwareContract.out' has not changed.
-(rerunfilecheck)             Checksum: BAC77ED5C6D6F9249DB6FE2BA8F10C48;793.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 158.
+(rerunfilecheck)             Checksum: B75DFD95CB43368BC9718098F2B8A29E;694.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 151.
  ) 
 Here is how much of TeX's memory you used:
- 6152 strings out of 493673
- 89529 string characters out of 3141524
+ 6147 strings out of 493673
+ 89479 string characters out of 3141524
  193819 words of memory out of 3000000
- 9414 multiletter control sequences out of 15000+200000
+ 9412 multiletter control sequences out of 15000+200000
  7389 words of font info for 27 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 29i,7n,35p,714b,479s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,7n,35p,714b,477s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:
 /Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on SoftwareContract.pdf (5 pages, 73177 bytes).
+Output written on SoftwareContract.pdf (4 pages, 71369 bytes).
 PDF statistics:
- 146 PDF objects out of 1000 (max. 8388607)
- 55 named destinations out of 1000 (max. 500000)
- 121 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 133 PDF objects out of 1000 (max. 8388607)
+ 52 named destinations out of 1000 (max. 500000)
+ 105 words of extra memory for PDF output out of 10000 (max. 10000000)
 
