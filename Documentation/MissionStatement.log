@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.24)  1 OCT 2015 10:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.24)  9 NOV 2015 16:59
 entering extended mode
 **MissionStatement.tex
 (MissionStatement.tex
@@ -310,36 +310,29 @@ LaTeX Info: Redefining \nameref on input line 11.
  [1
 
 {C:/Users/7057627/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 97.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 109.
  [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 97.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 109.
  (MissionStatement.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 97.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 97.
-
-
-Package rerunfilecheck Warning: File `MissionStatement.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `MissionStatement.out':
-(rerunfilecheck)             Before: 1A7718011E8DF381CA15EDCE823B80B6;200
-(rerunfilecheck)             After:  4EF48AE2A562DD18E8A2F77C269642D5;248.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 97.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 109.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 109.
+Package rerunfilecheck Info: File `MissionStatement.out' has not changed.
+(rerunfilecheck)             Checksum: 4EF48AE2A562DD18E8A2F77C269642D5;248.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 109.
  ) 
 Here is how much of TeX's memory you used:
- 6106 strings out of 493673
- 89058 string characters out of 3141524
- 192790 words of memory out of 3000000
- 9391 multiletter control sequences out of 15000+200000
+ 6113 strings out of 493673
+ 89111 string characters out of 3141524
+ 193790 words of memory out of 3000000
+ 9392 multiletter control sequences out of 15000+200000
  4651 words of font info for 18 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  29i,5n,35p,404b,459s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on MissionStatement.pdf (2 pages, 46254 bytes).
+Output written on MissionStatement.pdf (2 pages, 47641 bytes).
 PDF statistics:
- 81 PDF objects out of 1000 (max. 8388607)
- 39 named destinations out of 1000 (max. 500000)
- 33 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 91 PDF objects out of 1000 (max. 8388607)
+ 45 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
