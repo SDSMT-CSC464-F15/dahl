@@ -1,12 +1,12 @@
 \contentsline {chapter}{Title}{i}{Doc-Start}
-\contentsline {chapter}{Contents}{iii}{chapter*.1}
-\contentsline {chapter}{List of Figures}{v}{chapter*.2}
-\contentsline {chapter}{List of Tables}{vii}{chapter*.3}
-\contentsline {chapter}{List of Algorithms}{ix}{chapter*.4}
-\contentsline {chapter}{Overview Statements}{xi}{chapter*.5}
-\contentsline {section}{\numberline {0.1}Mission Statement}{xi}{section.0.1}
-\contentsline {section}{\numberline {0.2}Elevator Pitch}{xi}{section.0.2}
-\contentsline {chapter}{Document Preparation and Updates}{xiii}{chapter*.6}
+\contentsline {chapter}{Contents}{v}{chapter*.1}
+\contentsline {chapter}{List of Figures}{vii}{chapter*.2}
+\contentsline {chapter}{List of Tables}{ix}{chapter*.3}
+\contentsline {chapter}{List of Algorithms}{xi}{chapter*.4}
+\contentsline {chapter}{Overview Statements}{xiii}{chapter*.5}
+\contentsline {section}{\numberline {0.1}Mission Statement}{xiii}{section.0.1}
+\contentsline {section}{\numberline {0.2}Elevator Pitch}{xiii}{section.0.2}
+\contentsline {chapter}{Document Preparation and Updates}{xv}{chapter*.6}
 \contentsline {chapter}{\numberline {1}Overview and concept of operations}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Scope}{1}{section.1.1}
 \contentsline {section}{\numberline {1.2}Deliverables}{1}{section.1.2}
@@ -49,23 +49,21 @@
 \contentsline {subsection}{\numberline {4.1.1}Technologies Used}{11}{subsection.4.1.1}
 \contentsline {subsection}{\numberline {4.1.2}Component Overview}{11}{subsection.4.1.2}
 \contentsline {subsection}{\numberline {4.1.3}Phase Overview}{11}{subsection.4.1.3}
-\contentsline {subsection}{\numberline {4.1.4} Architecture Diagram}{11}{subsection.4.1.4}
-\contentsline {subsection}{\numberline {4.1.5}Data Flow Diagram}{11}{subsection.4.1.5}
-\contentsline {subsection}{\numberline {4.1.6}Design Details}{11}{subsection.4.1.6}
+\contentsline {subsection}{\numberline {4.1.4} Architecture Diagram}{12}{subsection.4.1.4}
+\contentsline {subsection}{\numberline {4.1.5}Data Flow Diagram}{12}{subsection.4.1.5}
+\contentsline {subsection}{\numberline {4.1.6}Design Details}{12}{subsection.4.1.6}
 \contentsline {section}{\numberline {4.2}Paintings }{12}{section.4.2}
 \contentsline {subsection}{\numberline {4.2.1}Technologies Used}{12}{subsection.4.2.1}
 \contentsline {subsection}{\numberline {4.2.2}Component Overview}{12}{subsection.4.2.2}
 \contentsline {subsection}{\numberline {4.2.3}Phase Overview}{12}{subsection.4.2.3}
-\contentsline {subsection}{\numberline {4.2.4} Architecture Diagram}{12}{subsection.4.2.4}
-\contentsline {subsection}{\numberline {4.2.5}Data Flow Diagram}{12}{subsection.4.2.5}
-\contentsline {subsection}{\numberline {4.2.6}Design Details}{12}{subsection.4.2.6}
-\contentsline {section}{\numberline {4.3}Gallery }{12}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}Technologies Used}{12}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {4.3.2}Component Overview}{12}{subsection.4.3.2}
-\contentsline {subsection}{\numberline {4.3.3}Phase Overview}{12}{subsection.4.3.3}
-\contentsline {subsection}{\numberline {4.3.4} Architecture Diagram}{12}{subsection.4.3.4}
-\contentsline {subsection}{\numberline {4.3.5}Data Flow Diagram}{13}{subsection.4.3.5}
-\contentsline {subsection}{\numberline {4.3.6}Design Details}{13}{subsection.4.3.6}
+\contentsline {subsection}{\numberline {4.2.4} Architecture Diagram}{13}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4.2.5}Design Details}{13}{subsection.4.2.5}
+\contentsline {section}{\numberline {4.3}Gallery }{13}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Technologies Used}{13}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Component Overview}{13}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Phase Overview}{13}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.4} Architecture Diagram}{14}{subsection.4.3.4}
+\contentsline {subsection}{\numberline {4.3.5}Design Details}{14}{subsection.4.3.5}
 \contentsline {chapter}{\numberline {5}System and Unit Testing}{15}{chapter.5}
 \contentsline {section}{\numberline {5.1}Overview}{15}{section.5.1}
 \contentsline {section}{\numberline {5.2}Dependencies}{15}{section.5.2}
