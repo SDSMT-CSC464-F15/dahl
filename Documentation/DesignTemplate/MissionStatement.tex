@@ -1,0 +1,109 @@
+\documentclass[11pt]{article}
+\usepackage[width=7.5in, height=9.5in, top=0.5in, papersize={8.5in,11in}]{geometry}
+\usepackage{ulem}
+\usepackage[dvipsnames,svgnames]{xcolor}
+\usepackage[pdftex]{graphicx}
+\title{REQUIREMENTS DOCUMENT}
+\usepackage{hyperref}
+\setlength{\parskip}{2mm}
+\setlength{\parindent}{0mm}
+
+\begin{document}
+
+{\Large \bf 
+\centerline{DAHL VIRTUAL MUSEUM}\centerline{PROJECT OVERVIEW}
+}
+\vspace{\baselineskip}
+
+This document details and explains the project description, requirements, and deliverables for the Dahl Virtual Museum project.  This document can be referenced as an accurate description of what is expected and what will be the final product for the predefined senior design team.
+
+\section{Mission Statement}
+The purpose of this project is to develop a virtual reality environment that accurately represents the Ruth Brennan art exhibit at the Dahl Arts Center.  The end product will be able to be transported to and from the museum too allow students and others, who otherwise cannot visit the museum, to experience the Dahl.
+
+\section{User Stories}
+This section is derived from the list of user stories provided by the Dahl Arts Center
+
+\begin{enumerate}
+\item As a user I will be able to view and interact with a virtual gallery, preferably Ruth Brennan, in a room generated using the Unreal Engine as per the room layout provided by the Dahl.
+
+\item As a user I will be able to select between a guided tour and user-controlled experience the latter will be controlled using a handheld game controller.
+
+\item This product should be able to be transported to make it able to take to other locations and allow people who might otherwise be able to experience the Dahl.
+
+\item As a user I will be able to view an art piece and have a description text box appear on the side of the piece with interpretive text about the piece in view.  There should also be the ability to add a short video to play on specific exhibits to add further description for the user. NOTE: Text should be provided by the Dahl to ensure customer satisfaction.
+
+\end{enumerate}
+
+\section{Requirements}
+
+\begin{enumerate}
+\item Product must depict art pieces from the Ruth Brennan gallery in a proportionally accurate virtual representation of the gallery room.
+
+\item Each exhibit will include a block of interpretive text that will appear when the user looks at a piece.  The text will help give the user insight into the artist's creative process. NOTE:  This text should be provided by the Dahl to ensure customer satisfaction.
+
+\item The tour will be predetermined rather than self-guided due to nausea inducing effects from the virtual reality environment.
+
+\item The end product will be able to be transported to other areas to allow a wider range of visitors to experience the Dahl.
+\end{enumerate}
+
+\section{Product Backlog}
+\begin{enumerate}
+\item Documentation
+	\begin{enumerate}
+	\item Operator manual
+	\item User manual
+	\end{enumerate}
+\item Unreal Engine
+	\begin{enumerate}
+	\item Develop proportionally correct room prototype (not including art pieces)
+	\item Develop method to use 2D images in the gallery
+	\item Develop waypoint system to use in the guided tour
+	\item Eye tracking system to trigger text box descriptions
+	\item Think of different environments and ways to implement them
+	\item In addition to different environments, think of different textures for base room
+	\item Implement method of using video and audio recording in the tour
+	\end{enumerate}
+\item Oculus Rift
+	\begin{enumerate}
+	\item Research methods to reduce simulation sickness
+	\end{enumerate}
+\end{enumerate}
+
+\section{Deliverables}
+\begin{enumerate}
+\item Sprint 1
+	\begin{enumerate}
+	\item Prototype gallery room
+	\item Software contract
+	\end{enumerate}
+
+\item Sprint 2
+	\begin{enumerate}
+	\item Rough draft of guided tour
+	\end{enumerate}
+	
+\item Sprint 3
+	\begin{enumerate}
+	\item Finalized guided tour 
+	\item Gallery room complete with paintings and videos
+	\end{enumerate}
+
+\item Sprint 4
+	\begin{enumerate}
+	\item Text descriptions in the Unreal engine
+	\end{enumerate}
+	
+\item Sprint 5
+	\begin{enumerate}
+	\item Research about custom environments
+	\end{enumerate}
+	
+\item Sprint 6
+	\begin{enumerate}
+	\item End documentation
+	\item User manual
+	\item Finalized product (free-moving and guided tour)
+	\end{enumerate}
+\end{enumerate}
+
+\end{document}
