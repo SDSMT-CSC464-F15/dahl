@@ -1,0 +1,151 @@
+% !TEX root = DesignDocument.tex
+
+\chapter{User Stories,  Requirements, and Product Backlog}
+\section{Overview}
+
+The Dahl Arts Center in Rapid City has asked for some way to be able to bring their art from the galleries to the community.  Dr. King Adkins, who brought this project to the school, thought of the idea of using virtual reality to recreate a gallery without risking any of the actual pieces.  Through meetings with the Dahl Arts Committee, user stories were developed which made the project feasible within the course of the senior design class.
+
+The Dahl listed a total of four user stories which were then reworked in order to read the requirements from them.  The original as well as the reworked user stories will be included in the user story section of this document to show that no details were lost when reworking them.  
+
+There will be a number of design constraints and system requirement as well, such as a minimum level of hardware to run the Unreal Engine; this will be discussed in the requirements section.  
+
+Finally, the product backlog will be spelled out showing all of the pieces of the product that need to be produced in the course of this project. 
+
+
+
+
+
+
+\section{User Stories}
+%This section can really be seen as the guts of the document.  This section should 
+%be the result of discussions with the stakeholders with regard to the actual functional 
+%requirements of the software.  It is the user stories that will be used in the 
+%work breakdown structure to build tasks to fill the product backlog for implementation 
+%through the sprints.
+%
+%This section should contain sub-sections to define and potentially provide a breakdown 
+%of larger user stories into smaller user stories.   Each component must have a test identified, 
+%meaning you need to know how you plan to test it.  If a requirement is not testable, then 
+%some justification needs to be made on why the requirement has been included.  
+% The results of the tests should go in the testing chapter. 
+
+The user stories given by the Dahl Arts Center seemed to focus more on what they wanted to get out of this product rather than how the user should be using it.  That being said, the senior design team developed more constrained user stories directly from those provided by the Dahl.  Both versions will be included in this document to ensure that no features were left out of the reworked user stories.  In some cases, pieces of different user stories were taken to produce a more relevant user story.
+
+
+
+\subsection{User Story \#1 Original}
+Create a virtual and interactive gallery space that mimics the space of one of our galleries, preferably the Ruth Brennan Gallery. 
+
+\subsection{User Story \#1 Revised}
+As a user I will be able to view and interact with a virtual gallery, preferably Ruth Brennan, in a room generated using the Unreal Engine as per the room layout provided by the Dahl.
+
+\subsubsection{User Story \#1 Breakdown}
+This user story requires that the senior design team create a scale replica of an existing room in the Dahl Arts Center, the Ruth Brennan Gallery.  This will be done using the Unreal Engine by using measurements both taken in the gallery by the team, as well as a blueprint of the room provided by the Dahl.  
+
+Testing will focus on finding glitches in the room itself such as:  holes in textures, collision detection errors (clipping through walls), and lighting
+
+\hrulefill
+
+\subsection{User Story \#2 Original} 
+Users would be able to "step" into the gallery by placing the virtual reality goggles on and move around using a handheld controller. This technology will allow us to go out into the community and make our galleries and artwork accessible to all. 
+
+\subsection{User Story \#2 Revised}
+As a user I will be able to select between a guided tour and user-controlled experience the latter will be controlled using a handheld game controller.
+
+\subsubsection{User Story \#2 Breakdown}
+The revised user story takes some aspects from user stories 2 and 3, due to the fact that 3 had many unrelated aspects of the product.  The main topic of this user story is movement through the virtual gallery.  One method will be entirely user controlled with a handheld game controller, for this project the design team will be using an Xbox 360 Wired controller.  The other method has been termed "On-rails" meaning that the user will move between set points in the gallery along a fixed path (rails) and will not be able to freely explore the gallery.
+
+Testing for On-rails movement will be done using unit tests for on rails in particular in ensure that when the user presses the next button, they go to the next painting in order.  These tests will be done for each painting in the gallery.
+
+As for the free movement, the senior design team will be asking volunteers to experience the gallery and give feedback as to how nauseous the movement made them feel.  Other questions will be about if the movement was too fast or too slow which will also be included in the On-rails movement.  
+
+\hrulefill
+
+\subsection{User Story \#3 Original} 
+The user should be able to move through the virtual space, either on a specific track or on their own path, and walk up to each work of art to view it and to view interpretive text. We also would like to see the opportunity to embed a video as one component of the exhibit. Another component we would like to have is audio interpretation. 
+
+\subsection{User Story \#3 Revised}
+As a user I will be able to view an art piece and have a description text box appear on the side of the piece with interpretive text about the piece in view.  There should also be the ability to add a short video to play on specific exhibits to add further description for the user.
+
+\subsubsection{User Story \#3 Breakdown}
+The first sentence of the original user story was included in user story 2 leaving the rest in its own user story.  The purpose of this user story is to allow the user to read an interpretive description, written by the artist, while viewing the corresponding art piece.  The description will enlarge when viewing the piece to allow easy reading, and then shrink back down when not viewing.  Video excerpts can be used in place of text descriptions in the same manner. 
+
+Testing will for text/video descriptions will need to test if the descriptions enlarge only when looking at a piece, and shrink only when not viewing.  The design team came up with the idea of using another actor in the Unreal Engine that will act as the user, this way the team can see when this actor looks at a painting if the description will enlarge or shrink.
+
+\hrulefill
+
+\subsection{User Story \#4 Original}
+This virtual space should be designed with a high school aged person in mind but should be accessible to all levels of education.
+
+\subsection{User Story \#4 Revised}
+This product should be able to be transported to make it able to take to other locations and allow people who might otherwise be able to experience the Dahl.
+
+\subsection{User Story \#4 Breakdown}
+The original user story does not provide very much direction for the project and ultimately isn't something the senior design team can control.  The revised user story takes into account the fact that the Dahl wanted this product to be somewhat transportable and so that is a goal of the senior design team.  
+
+Testing for this user story isn't very possible because testing if something is transportable is only a question of whether the transportation is adequate.  Fortunately this product will only consist of a computer capable of running the Unreal Engine, and the Oculus Rift goggles themselves.
+
+\hrulefill
+
+\section{Requirements and Design Constraints}
+Use this section to discuss what requirements exist that deal with meeting the 
+business need.  These requirements might equate to design constraints which can 
+take the form of system, network, and/or user constraints.  Examples:  Windows 
+Server only, iOS only, slow network constraints, or no offline, local storage capabilities. 
+
+
+\subsection{System  Requirements}
+There are some system requirements, mainly a graphics card that is capable of running the Unreal Engine smoothly to avoid any framerate drops that could adversely affect the user experience.  Other requirements are the Oculus Rift drivers that must be installed for the Oculus to operate.
+
+
+\subsection{Network Requirements}
+There are no network requirements for this project.
+
+
+\subsection{Development Environment Requirements}
+Since this project is begin developed in the Unreal Engine, anything short of the final product will have to be experienced on a computer with the Engine installed.  The final product will be cross-platform as long as the end computer can handle the graphics load.
+
+\subsection{Project  Management Methodology}
+No official meeting schedule was established, however the design team agreed to meet with Dr. Adkins hopefully twice a month but at least once a month to discuss progress.  Dr. Adkins said he will not require written reports and that the meetings will suffice.
+
+
+\section{Specifications}
+Any specifications that need to be understood?  Put it here.  
+
+\section{Product Backlog}
+%The full product backlog should go here.  The sprint backlogs are located in the project chapter.
+\begin{enumerate}
+	\item Gallery room, textures, and lighting
+	\item Apply paintings as textures
+	\item Implement the video segments in their proper places in the gallery
+	\item Place each painting in the correct place in the gallery
+	\item Develop free-movement and on-rails tours
+	\item Text descriptions
+	\item Alternate environments
+	\item Final documentation, user manuals/guides
+\end{enumerate}
+ 
+\begin{itemize}
+\item What system will be used to keep track of the backlogs and sprint status?
+\item Will all parties have access to the Sprint and Product Backlogs?
+\item How many Sprints will encompass this particular project?
+\item How long are the Sprint Cycles?
+\item Are there restrictions on source control? 
+\end{itemize}
+
+
+\section{Research or Proof of Concept Results}
+This section is reserved for the discussion centered on any research that needed 
+to take place before full system design.  The research efforts may have led to 
+the need to actually provide a proof of concept for approval by the stakeholders. 
+ The proof of concept might even go to the extent of a user interface design or 
+mockups. 
+
+
+\section{Supporting Material}
+
+
+This document might contain references or supporting material which should be documented 
+and discussed  either here if appropriate or more often in the appendices at the end.  This material may have been provided by the stakeholders  
+or it may be material garnered from research tasks.
+

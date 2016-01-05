@@ -1,0 +1,124 @@
+
+% !TEX root = DesignDocument.tex
+
+\chapter{Design  and Implementation}
+%%This section is used to describe the design details for each of the major components 
+%%in the system.    Note that this chapter is critical for all tracks.  Research tracks would do experimental design here where other tracks would include the engineering design aspects.    This section is not brief and requires the necessary detail that 
+%%can be used by the reader to truly understand the architecture and implementation 
+%details without having to dig into the code.    Sample algorithm:  Algorithm~\ref{alg1}.  This algorithm environment is automatically placed - meaning it floats.   You don't have to worry about placement or numbering.  
+The Dahl Virtual Museum project will be done entirely in the Unreal Engine 4.0 using the built in Blueprint system (a visual scripting IDE).  Any code that will have to be written will be done in C/C++ and integrated into the Blueprint system.  
+
+This section will detail the different aspects of the Blueprints that will constitute the code of this project.  There will be screenshots of the blueprints of each aspect of the project, which are: movement(free and on-rails), the room, the paintings, text descriptions, and alternate environments. 
+ 
+
+
+%Citations look like~\cite{Choset:2005:PRM, arkin2009governing, lavalle2006}  and~\cite{wiki:asimo,lumelsky:1987, nolfi2000evolutionary}.  These are done automatically.  Just fill in the database {\tt designrefs.bib} using the same field structure as the other entries.  Then pdflatex the document, bibtex the document and pdflatex twice again.  The first pdflatex creates requests for bibliography entries.
+%The bibtex extracts and formats the requested entries.  The next pdflatex puts them in order and assigns labels.  The final pdflatex replaces references in the text with the assigned labels.
+%The bibliography is automatically constructed.  
+ 
+ \section{Architecture and System Design}
+ This is where you will place the overall system design or the architecture.   This section should be image rich.  There is the old phrase {\it a picture is worth a thousand words}, in this class it could be worth a hundred points (well if you sum up over the entire team).   One needs to enter the design and why a particular design has been done.   
+ 
+ \subsection{Design Selection}
+ Failed designs, design ideas, rejected designs here.
+ 
+ \subsection{Data Structures and Algorithms}
+ Describe the special data structures and any special algorithms.
+ 
+ \subsection{Data Flow}
+ 
+ \subsection{Communications}
+ 
+ \subsection{Classes}
+ 
+ \subsection{UML}
+ 
+ \subsection{GUI}
+ 
+ \subsection{MVVM, etc}
+
+\section{ Movement }
+
+\subsection{Technologies  Used}
+\begin{enumerate}
+	\item Unreal Engine Blueprint
+	\item Oculus Rift
+	\item Keyboard and mouse
+\end{enumerate}
+
+\subsection{Component  Overview}
+\begin{enumerate}
+	\item Allows user to move around the gallery
+	\item Moves in direction of the Oculus Rift
+\end{enumerate}
+
+%\subsection{Phase Overview}
+%This is an extension of the Phase Overview above, but specific to this component. 
+% It is meant to be basically a brief list with space for marking the phase status. 
+
+\subsection{ Architecture  Diagram}
+\includegraphics[scale=1.0]{Diagrams/MovementDiagram.png}
+
+
+%\subsection{Data Flow Diagram}
+%It is important to build and maintain a data flow diagram.  However, it may be 
+%that a component is best described visually with an architecture diagram. 
+
+
+\subsection{Design Details}
+The movement methods are a key feature to this product.  Without a good movement system, the user will not feel immersed in the gallery and will detract from the experience.  The reason for two different methods is that the design team felt that on-rails would be a better fit for users who are inexperienced with virtual reality or handheld controller input.  The free-movement will be a better fit for people who have experience with virtual reality, or computer graphics in general.
+
+%Should probably add more to this section
+
+
+
+\section{Paintings }
+
+\subsection{Technologies  Used}
+Unreal Engine 4.0 Blueprint system
+
+\subsection{Component  Overview}
+\begin{enumerate}
+\item Paintings were received as .jpg files
+\item Image files then converted to .png
+\item Drag and drop .png files onto objects in Unreal editor
+\end{enumerate}
+
+%\subsection{Phase Overview}
+%I'm not exactly sure what to put for this or any of the phase overviews 
+
+\subsection{ Architecture  Diagram}
+\includegraphics[scale=1.0]{Diagrams/PictureDiagram.png}
+ 
+
+
+\subsection{Design Details}
+This was a tedious process due to the fact that every file had to be converted from .jpg to .png in order for them to work in the engine.  Then was the task of making the objects in the right dimension for each painting which was done by making box objects to scale with the width and height of each painting, then dragging the .png file onto the object itself thereby creating the texture.
+
+
+\section{Gallery }
+
+\subsection{Technologies  Used}
+Unreal Engine 4.0
+Measuring Tape
+
+\subsection{Component  Overview}
+The gallery itself was fairly easy to generate.  A blueprint of the actual room was provided by the Dahl and make rendering the Unreal Engine as simple as make the right sized objects.  The four outer walls were very easy to generate from the blueprint, the two protruding walls had to be measured by hand. The rounded corners however were more difficult to recreate because there are no rounded walls in the Unreal Engine, so they had to be custom made.  
+
+%WHAT DO WE PUT FOR PHASE OVERVIEW
+%\subsection{Phase Overview}
+%This is an extension of the Phase Overview above, but specific to this component. 
+% It is meant to be basically a brief list with space for marking the phase status. 
+
+\subsection{ Architecture  Diagram}
+\includegraphics[scale=1.0]{Diagrams/GalleryDiagram.png}
+
+
+%\subsection{Data Flow Diagram}
+%It is important to build and maintain a data flow diagram.  However, it may be 
+%that a component is best described visually with an architecture diagram. 
+
+
+\subsection{Design Details}
+This section is about how the actual room was recreated in the Unreal Engine.  The Dahl provided a blueprint of the room which gave the dimensions and angles of the corners which was helpful in mapping it into the engine.  A measuring tape was used for the standalone walls that protrude into the room and the measurements were then scaled to the Unreal Engine unit system.
+
