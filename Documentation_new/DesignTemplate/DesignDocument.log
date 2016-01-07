@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.1.16)  7 JAN 2016 14:14
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.1.16)  7 JAN 2016 15:11
 entering extended mode
 **DesignDocument.tex
 
@@ -1754,24 +1754,58 @@ Chapter 3.
 [11
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 59--77
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--77
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--77
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--77
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--77
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--77
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--77
+
+ []
+
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 74.
+               Default added (so using `tbp') on input line 93.
 
 
-Overfull \hbox (385.6244pt too wide) in paragraph at lines 78--87
+Overfull \hbox (385.6244pt too wide) in paragraph at lines 97--106
  [][] 
  []
 
-[12pdfTeX warning (ext4): destination with the same identifier (name{table.3.1}
+[12])
+(C:\Users\7047629\Documents\dahl\Documentation_new\DesignTemplate\design.tex
+[13pdfTeX warning (ext4): destination with the same identifier (name{table.3.1}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.104 
-      ])
-(C:\Users\7047629\Documents\dahl\Documentation_new\DesignTemplate\design.tex
-[13] [14
+l.4 \chapter
+            {Design  and Implementation}] [14
 
 ]
 Chapter 4.
@@ -2182,7 +2216,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 140.
 Here is how much of TeX's memory you used:
  26132 strings out of 493921
  467046 string characters out of 3147276
- 605936 words of memory out of 3000000
+ 606939 words of memory out of 3000000
  28473 multiletter control sequences out of 15000+200000
  72582 words of font info for 72 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
@@ -2200,7 +2234,7 @@ rogram Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/Mi
 KTeX 2.9/fonts/type1/public/lm/lmsso10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
 ype1/public/lm/lmsso12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/l
 msy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmtt10.pfb>
-Output written on DesignDocument.pdf (69 pages, 3996354 bytes).
+Output written on DesignDocument.pdf (69 pages, 3996301 bytes).
 PDF statistics:
  1425 PDF objects out of 1440 (max. 8388607)
  283 named destinations out of 1000 (max. 500000)
