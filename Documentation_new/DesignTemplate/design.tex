@@ -61,8 +61,7 @@ This section will detail the different aspects of the Blueprints that will const
 
 
 %\subsection{Data Flow Diagram}
-%It is important to build and maintain a data flow diagram.  However, it may be 
-%that a component is best described visually with an architecture diagram. 
+%INSERT BLUEPRINTS HERE
 
 
 \subsection{Design Details}
@@ -90,6 +89,8 @@ Unreal Engine 4.0 Blueprint system
 \subsection{ Architecture  Diagram}
 \includegraphics[scale=1.0]{Diagrams/PictureDiagram.png}
  
+\subsection{Data Flow Diagram}
+%INSERT BLUEPRINTS HERE
 
 
 \subsection{Design Details}
@@ -115,10 +116,27 @@ The gallery itself was fairly easy to generate.  A blueprint of the actual room 
 
 
 %\subsection{Data Flow Diagram}
-%It is important to build and maintain a data flow diagram.  However, it may be 
-%that a component is best described visually with an architecture diagram. 
+%INSERT BLUEPRINTS HERE
+
 
 
 \subsection{Design Details}
 This section is about how the actual room was recreated in the Unreal Engine.  The Dahl provided a blueprint of the room which gave the dimensions and angles of the corners which was helpful in mapping it into the engine.  A measuring tape was used for the standalone walls that protrude into the room and the measurements were then scaled to the Unreal Engine unit system.
+
+\section{Text Descriptions}
+
+\subsection{Technologies Used}
+	\begin{enumerate}
+		\item Unreal Engine 4.0
+	\end{enumerate}
+
+\subsection{Component Overview}
+The text descriptions as described in the user stories, are interpretive excerpts written by the artist Arthur Amiotte that give insight into the meaning behind the piece.  The way the design team implemented these descriptions in the gallery is by using small rectangular objects that expand when the user is looking at the painting, in order to provide ease of reading, and then shrink back down when the user moves on.  The actual text that will appear on this object will come from a .png file and just like the paintings, be applied to in-gallery objects. 
+
+\subsection{Architecture Diagram}
+\subsection{Data Flow Diagram}
+%INSERT BLUEPRINTS HERE
+
+\subsection{Design Details}
+This component was designed very similarly to the paintings, in that the method of applying this "text-texture" to the in-gallery objects was the same.  The main difference between the two, is the enlarging and shrinking of the object.  This was done using a blueprint in the Unreal Engine Blueprint editor, the blueprint itself can be viewed above in the Data Flow Diagram section.  
 
