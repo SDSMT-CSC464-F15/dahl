@@ -6,7 +6,7 @@
 %%in the system.    Note that this chapter is critical for all tracks.  Research tracks would do experimental design here where other tracks would include the engineering design aspects.    This section is not brief and requires the necessary detail that 
 %%can be used by the reader to truly understand the architecture and implementation 
 %details without having to dig into the code.    Sample algorithm:  Algorithm~\ref{alg1}.  This algorithm environment is automatically placed - meaning it floats.   You don't have to worry about placement or numbering.  
-The Dahl Virtual Museum project will be done entirely in the Unreal Engine 4.0 using the built in Blueprint system (a visual scripting IDE).  Any code that will have to be written will be done in C/C++ and integrated into the Blueprint system.  
+The Dahl Virtual Museum project will be done entirely in the Unreal Engine 4.0 using the built in Blueprint system (a visual scripting IDE).  This system provides powerful premade code segments that can be linked together in many ways, there will be images of this system in action later in the document.  The Blueprint system may not be able to cover everything that the project requires, so to make up for that, C++ code can be directly integrated into the Engine as well.  
 
 This section will detail the different aspects of the Blueprints that will constitute the code of this project.  There will be screenshots of the blueprints of each aspect of the project, which are: movement(free and on-rails), the room, the paintings, text descriptions, and alternate environments. 
  
@@ -17,25 +17,33 @@ This section will detail the different aspects of the Blueprints that will const
 %The bibliography is automatically constructed.  
  
  \section{Architecture and System Design}
- This is where you will place the overall system design or the architecture.   This section should be image rich.  There is the old phrase {\it a picture is worth a thousand words}, in this class it could be worth a hundred points (well if you sum up over the entire team).   One needs to enter the design and why a particular design has been done.   
+ The architecture and system diagrams will one and the same, and should be fairly self-explanatory.  
+ The Unreal Engine 4.0 that was used for this project is very capable and already had Oculus Rift integration, which helped focus the development on the user experience and visual quality rather than getting the hardware to work together.  Installing the Oculus Rift drivers and associated software was a large chunk of sprint 1.   
+ 
+ %put picture of architecture and system diagrams
+ %\includegraphics[scale=1.0]{•}
  
  \subsection{Design Selection}
- Failed designs, design ideas, rejected designs here.
+ There were a number of ways to do this project, with other graphics engines or virtual reality headsets.  The reason the Unreal Engine was chosen was because of its almost seamless integration of the Oculus Rift SDK2.  As for the Oculus Rift, that was chosen because there was an available SDK2 from Nick Newell at Echostar who graciously lent the dev kit to the design team to use.  
  
  \subsection{Data Structures and Algorithms}
- Describe the special data structures and any special algorithms.
+ The Unreal Engine employs a number of objects that have different attributes associated with them. This section will go over the objects used in this project and why they were chosen.
  
+ % list of actors, arrays, objects etc 
+  
  \subsection{Data Flow}
+  
  
  \subsection{Communications}
+ This section will explain how each object interacts with the others, for instance how the waypoint system for the On-rails movement works. 
  
  \subsection{Classes}
  
- \subsection{UML}
+ %\subsection{UML}
  
- \subsection{GUI}
+ %\subsection{GUI}
  
- \subsection{MVVM, etc}
+ %\subsection{MVVM, etc}
 
 \section{ Movement }
 
@@ -44,12 +52,15 @@ This section will detail the different aspects of the Blueprints that will const
 	\item Unreal Engine Blueprint
 	\item Oculus Rift
 	\item Keyboard and mouse
+	\item Xbox 360 wired controller
 \end{enumerate}
 
 \subsection{Component  Overview}
+
+% SHOULD REVISE THIS SECTION
 \begin{enumerate}
-	\item Allows user to move around the gallery
-	\item Moves in direction of the Oculus Rift
+	\item Free movement:  User can freely move throughout the environment
+	\item On-rails:  User travels from painting to painting along a linear path
 \end{enumerate}
 
 %\subsection{Phase Overview}
@@ -74,13 +85,15 @@ The movement methods are a key feature to this product.  Without a good movement
 \section{Paintings }
 
 \subsection{Technologies  Used}
-Unreal Engine 4.0 Blueprint system
+\begin{enumerate}
+\item Unreal Engine 4.0 Blueprint system
+\end{enumerate}
 
 \subsection{Component  Overview}
 \begin{enumerate}
-\item Paintings were received as .jpg files
-\item Image files then converted to .png
-\item Drag and drop .png files onto objects in Unreal editor
+\item Painting image files (.png)
+\item Painting texture files
+\item UE objects with textures attached
 \end{enumerate}
 
 %\subsection{Phase Overview}
@@ -100,8 +113,11 @@ This was a tedious process due to the fact that every file had to be converted f
 \section{Gallery }
 
 \subsection{Technologies  Used}
-Unreal Engine 4.0
-Measuring Tape
+\begin{enumerate}
+\item Unreal Engine 4.0
+\item Measuring Tape
+\end{enumerate}
+
 
 \subsection{Component  Overview}
 The gallery itself was fairly easy to generate.  A blueprint of the actual room was provided by the Dahl and make rendering the Unreal Engine as simple as make the right sized objects.  The four outer walls were very easy to generate from the blueprint, the two protruding walls had to be measured by hand. The rounded corners however were more difficult to recreate because there are no rounded walls in the Unreal Engine, so they had to be custom made.  
@@ -139,4 +155,15 @@ The text descriptions as described in the user stories, are interpretive excerpt
 
 \subsection{Design Details}
 This component was designed very similarly to the paintings, in that the method of applying this "text-texture" to the in-gallery objects was the same.  The main difference between the two, is the enlarging and shrinking of the object.  This was done using a blueprint in the Unreal Engine Blueprint editor, the blueprint itself can be viewed above in the Data Flow Diagram section.  
+
+\section{Alternate Environment}
+\subsection{Technologies Used}
+\begin{enumerate}
+\item terrain.party:  height map generator
+\item Unreal Engine height map integrator
+\end{enumerate}
+\subsection{Component Overview}
+\subsection{Architecture Diagram}
+\subsection{Data Flow Diagram}
+\subsection{Design Details}
 
