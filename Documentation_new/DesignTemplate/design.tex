@@ -46,7 +46,7 @@ This section will detail the different aspects of the Blueprints that will const
   Data flow is somewhat hard to describe when using the Unreal Engine, as most of the data is global, there is little need to pass data around.  That being said, a number of the Blueprints use data associated with specific in-engine objects such as the user actor.  The user has a position vector, a vision vector, and movement vectors that all come into play in many of the Blueprints.  The vision vector is especially important because this allows the text-descriptions to play their animation only when the user is looking at them.  
  
  \subsection{Communications}
- This section will explain how each object interacts with the others, for instance how the waypoint system for the On-rails movement works. 
+ Due to the nature of how the Oculus Rift interacts with the Unreal Engine, communication between them is handled intrinsically, the same is true for the Xbox 360 controller.  Because of this, there was little to no need for custom communication suites for this project.  The Unreal Engine automatically detects any game controller plugged in, as well as the Oculus Rift (if the correct drivers have been installed).
  
  \subsection{Classes}
  The classes used in the creation of this project are all standard to the Unreal Engine.  The classes being:
