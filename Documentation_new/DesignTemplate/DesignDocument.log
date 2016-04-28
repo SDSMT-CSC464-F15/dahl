@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.24)  27 JAN 2016 16:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.24)  27 APR 2016 21:26
 entering extended mode
 **DesignDocument.tex
 (DesignDocument.tex
@@ -1628,7 +1628,7 @@ Overfull \hbox (7.03629pt too wide) in paragraph at lines 16--37
 
 ] (overview.tex
 Chapter 1.
-(industrial.tex <Resumes/Mack'sResume.pdf, id=895, 614.295pt x 794.97pt>
+(industrial.tex <Resumes/Mack'sResume.pdf, id=936, 614.295pt x 794.97pt>
 File: Resumes/Mack'sResume.pdf Graphic file (type pdf)
 
 <use Resumes/Mack'sResume.pdf>
@@ -1639,7 +1639,7 @@ File: Resumes/Mack'sResume.pdf Graphic file (type pdf)
 Package pdftex.def Info: Resumes/Mack'sResume.pdf used on input line 12.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<Resumes/Mack'sResume.pdf, id=898, page=1, 614.295pt x 794.97pt>
+<Resumes/Mack'sResume.pdf, id=939, page=1, 614.295pt x 794.97pt>
 File: Resumes/Mack'sResume.pdf Graphic file (type pdf)
 
 <use Resumes/Mack'sResume.pdf, page 1>
@@ -1673,7 +1673,7 @@ Package pdftex.def Info: Resumes/Mack'sResume.pdf, page1 used on input line 12.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 
 [2 <./Resumes/Mack'sResume.pdf>]
-<Resumes/Alex'sResume.pdf, id=929, 614.295pt x 794.97pt>
+<Resumes/Alex'sResume.pdf, id=970, 614.295pt x 794.97pt>
 File: Resumes/Alex'sResume.pdf Graphic file (type pdf)
 
 <use Resumes/Alex'sResume.pdf>
@@ -1684,7 +1684,7 @@ File: Resumes/Alex'sResume.pdf Graphic file (type pdf)
 Package pdftex.def Info: Resumes/Alex'sResume.pdf used on input line 13.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<Resumes/Alex'sResume.pdf, id=932, page=1, 614.295pt x 794.97pt>
+<Resumes/Alex'sResume.pdf, id=973, page=1, 614.295pt x 794.97pt>
 File: Resumes/Alex'sResume.pdf Graphic file (type pdf)
 
 <use Resumes/Alex'sResume.pdf, page 1>
@@ -1714,7 +1714,7 @@ Package pdftex.def Info: Resumes/Alex'sResume.pdf, page1 used on input line 13.
 
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [3 <./Resumes/Alex'sResume.pdf>])
-[4] <./diagram.png, id=976, 722.7pt x 542.025pt>
+[4] <./diagram.png, id=1017, 722.7pt x 542.025pt>
 File: ./diagram.png Graphic file (type png)
  <use ./diagram.png>
 Package pdftex.def Info: ./diagram.png used on input line 67.
@@ -1802,48 +1802,70 @@ l.4 \chapter
 
 ]
 Chapter 4.
-[15] <Diagrams/MovementDiagram.png, id=1042, 514.92375pt x 262.73157pt>
-File: Diagrams/MovementDiagram.png Graphic file (type png)
+<Diagrams/SystemDiagram.png, id=1075, 440.39531pt x 203.25937pt>
+File: Diagrams/SystemDiagram.png Graphic file (type png)
 
-<use Diagrams/MovementDiagram.png>
-Package pdftex.def Info: Diagrams/MovementDiagram.png used on input line 60.
-(pdftex.def)             Requested size: 514.92249pt x 262.73091pt.
+<use Diagrams/SystemDiagram.png>
+Package pdftex.def Info: Diagrams/SystemDiagram.png used on input line 24.
+(pdftex.def)             Requested size: 440.39423pt x 203.25887pt.
+ [15] [16pdfTeX warning (ext4): destination with the same identifier (name{figu
+re.4.1}) has been already used, duplicate ignored
 
-Overfull \hbox (45.1675pt too wide) in paragraph at lines 60--61
-[] 
- []
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.74 \end{enumerate}
+                     <./Diagrams/SystemDiagram.png>]
+<Diagrams/XboxControlDiagram.png, id=1090, 441.14813pt x 277.035pt>
+File: Diagrams/XboxControlDiagram.png Graphic file (type png)
 
-<Diagrams/PictureDiagram.png, id=1043, 467.49657pt x 123.46124pt>
-File: Diagrams/PictureDiagram.png Graphic file (type png)
+<use Diagrams/XboxControlDiagram.png>
+Package pdftex.def Info: Diagrams/XboxControlDiagram.png used on input line 90.
 
-<use Diagrams/PictureDiagram.png>
-Package pdftex.def Info: Diagrams/PictureDiagram.png used on input line 90.
-(pdftex.def)             Requested size: 467.49542pt x 123.46092pt.
- [16 <./Diagrams/MovementDiagram.png>]
-<Diagrams/GalleryDiagram.png, id=1053, 514.92375pt x 262.73157pt>
+(pdftex.def)             Requested size: 441.14705pt x 277.03432pt.
+ [17pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
+2}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.118 \item U
+             E objects with textures attached <./Diagrams/XboxControlDiagram.pn
+g>] <Diagrams/GalleryDiagram.png, id=1102, 514.92375pt x 262.73157pt>
 File: Diagrams/GalleryDiagram.png Graphic file (type png)
 
 <use Diagrams/GalleryDiagram.png>
-Package pdftex.def Info: Diagrams/GalleryDiagram.png used on input line 115.
+Package pdftex.def Info: Diagrams/GalleryDiagram.png used on input line 149.
 (pdftex.def)             Requested size: 514.92249pt x 262.73091pt.
 
-Overfull \hbox (45.1675pt too wide) in paragraph at lines 115--116
+Overfull \hbox (45.1675pt too wide) in paragraph at lines 149--150
 [] 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [17 <./Diagrams/PictureDiagram.png>]) (testing.tex [18 <./Diagrams/GalleryDiag
-ram.png>]
-Chapter 5.
-) (prototypes.tex [19
+ [18]
+[19 <./Diagrams/GalleryDiagram.png>]
+<Diagrams/AltEnvironment.png, id=1116, 304.13625pt x 226.59656pt>
+File: Diagrams/AltEnvironment.png Graphic file (type png)
 
-] [20
+<use Diagrams/AltEnvironment.png>
+Package pdftex.def Info: Diagrams/AltEnvironment.png used on input line 192.
+(pdftex.def)             Requested size: 304.1355pt x 226.596pt.
+) (testing.tex [20pdfTeX warning (ext4): destination with the same identifier (
+name{figure.4.3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.4 \chapter
+            {System  and Unit Testing} <./Diagrams/AltEnvironment.png>]
+Chapter 5.
+) (prototypes.tex [21
+
+] [22
 
 ]
 Chapter 6.
-<SprintReports/Sprint2/basicMovement.png, id=1078, 320.69812pt x 194.97844pt>
+<SprintReports/Sprint2/basicMovement.png, id=1133, 320.69812pt x 194.97844pt>
 File: SprintReports/Sprint2/basicMovement.png Graphic file (type png)
 
 <use SprintReports/Sprint2/basicMovement.png>
@@ -1851,7 +1873,7 @@ Package pdftex.def Info: SprintReports/Sprint2/basicMovement.png used on input
 line 30.
 (pdftex.def)             Requested size: 320.69733pt x 194.97795pt.
 
-<SprintReports/Sprint2/moveToPoint.png, id=1079, 479.54156pt x 169.38281pt>
+<SprintReports/Sprint2/moveToPoint.png, id=1134, 479.54156pt x 169.38281pt>
 File: SprintReports/Sprint2/moveToPoint.png Graphic file (type png)
 
 <use SprintReports/Sprint2/moveToPoint.png>
@@ -1863,7 +1885,7 @@ Overfull \hbox (9.7854pt too wide) in paragraph at lines 35--36
  [][] 
  []
 
-<SprintReports/Sprint2/moveToPoint2.png, id=1080, 480.29437pt x 154.32657pt>
+<SprintReports/Sprint2/moveToPoint2.png, id=1135, 480.29437pt x 154.32657pt>
 File: SprintReports/Sprint2/moveToPoint2.png Graphic file (type png)
 
 <use SprintReports/Sprint2/moveToPoint2.png>
@@ -1875,7 +1897,7 @@ Overfull \hbox (10.5382pt too wide) in paragraph at lines 40--41
  [][] 
  []
 
-[21] [22pdfTeX warning (ext4): destination with the same identifier (name{figur
+[23] [24pdfTeX warning (ext4): destination with the same identifier (name{figur
 e.6.1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1895,7 +1917,7 @@ identifier (name{figure.6.3}) has been already used, duplicate ignored
 l.49 \subsection{Success/Fail}
                                <./SprintReports/Sprint2/basicMovement.png> <./S
 printReports/Sprint2/moveToPoint.png> <./SprintReports/Sprint2/moveToPoint2.png
->] <SprintReports/Sprint3/WayMove1.png, id=1099, 816.04875pt x 398.99063pt>
+>] <SprintReports/Sprint3/WayMove1.png, id=1153, 816.04875pt x 398.99063pt>
 File: SprintReports/Sprint3/WayMove1.png Graphic file (type png)
 
 <use SprintReports/Sprint3/WayMove1.png>
@@ -1903,7 +1925,7 @@ Package pdftex.def Info: SprintReports/Sprint3/WayMove1.png used on input line
 60.
 (pdftex.def)             Requested size: 408.02338pt x 199.49483pt.
 
-<SprintReports/Sprint3/WayMove2.png, id=1100, 826.58812pt x 392.21532pt>
+<SprintReports/Sprint3/WayMove2.png, id=1154, 826.58812pt x 392.21532pt>
 File: SprintReports/Sprint3/WayMove2.png Graphic file (type png)
 
 <use SprintReports/Sprint3/WayMove2.png>
@@ -1911,7 +1933,7 @@ Package pdftex.def Info: SprintReports/Sprint3/WayMove2.png used on input line
 66.
 (pdftex.def)             Requested size: 413.29305pt x 196.10718pt.
 
-<SprintReports/Sprint3/Waypoint.png, id=1101, 294.34969pt x 361.35pt>
+<SprintReports/Sprint3/Waypoint.png, id=1155, 294.34969pt x 361.35pt>
 File: SprintReports/Sprint3/Waypoint.png Graphic file (type png)
 
 <use SprintReports/Sprint3/Waypoint.png>
@@ -1919,7 +1941,7 @@ Package pdftex.def Info: SprintReports/Sprint3/Waypoint.png used on input line
 72.
 (pdftex.def)             Requested size: 147.17447pt x 180.67456pt.
 
-<SprintReports/Sprint3/Example1.png, id=1102, 910.15031pt x 417.81094pt>
+<SprintReports/Sprint3/Example1.png, id=1156, 910.15031pt x 417.81094pt>
 File: SprintReports/Sprint3/Example1.png Graphic file (type png)
 
 <use SprintReports/Sprint3/Example1.png>
@@ -1927,14 +1949,14 @@ Package pdftex.def Info: SprintReports/Sprint3/Example1.png used on input line
 78.
 (pdftex.def)             Requested size: 455.07405pt x 208.90495pt.
 
-<SprintReports/Sprint3/Example2.png, id=1103, 910.15031pt x 414.79968pt>
+<SprintReports/Sprint3/Example2.png, id=1157, 910.15031pt x 414.79968pt>
 File: SprintReports/Sprint3/Example2.png Graphic file (type png)
 
 <use SprintReports/Sprint3/Example2.png>
 Package pdftex.def Info: SprintReports/Sprint3/Example2.png used on input line 
 84.
 (pdftex.def)             Requested size: 455.07405pt x 207.39934pt.
- [23pdfTeX warning (ext4): destination with the same identifier (name{figure.6.
+ [25pdfTeX warning (ext4): destination with the same identifier (name{figure.6.
 4}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1947,7 +1969,7 @@ dentifier (name{figure.6.5}) has been already used, duplicate ignored
                                                   \fi \fi 
 l.89 	\item T
              ext Descriptions <./SprintReports/Sprint3/WayMove1.png> <./SprintR
-eports/Sprint3/WayMove2.png>] [24pdfTeX warning (ext4): destination with the sa
+eports/Sprint3/WayMove2.png>] [26pdfTeX warning (ext4): destination with the sa
 me identifier (name{figure.6.6}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1960,7 +1982,7 @@ dentifier (name{figure.6.7}) has been already used, duplicate ignored
                                                   \fi \fi 
 l.89 	\item T
              ext Descriptions <./SprintReports/Sprint3/Waypoint.png> <./SprintR
-eports/Sprint3/Example1.png>]) (deploy.tex [25pdfTeX warning (ext4): destinatio
+eports/Sprint3/Example1.png>]) (deploy.tex [27pdfTeX warning (ext4): destinatio
 n with the same identifier (name{figure.6.8}) has been already used, duplicate 
 ignored
 
@@ -1968,11 +1990,11 @@ ignored
                                                   \fi \fi 
 l.4 \chapter
             {Release -- Setup -- Deployment} <./SprintReports/Sprint3/Example2.
-png>] [26
+png>] [28
 
 ]
 Chapter 7.
-) (userdocs.tex [27] [28
+) (userdocs.tex [29] [30
 
 ]
 Chapter 8.
@@ -1980,38 +2002,38 @@ LaTeX Font Info:    Try loading font information for T1+lmtt on input line 18.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\t1lmtt.fd"
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )) (refman.tex
-[29] [30
+[31] [32
 
 ]
 Chapter 9.
-(annotated.tex) [31] [32
+(annotated.tex) [33] [34
 
 ]
 Chapter 10.
 (class_poly.tex
 LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <12> not available
 (Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 39.
-)) (businessplan.tex [33] [34
+)) (businessplan.tex [35] [36
 
 ]
 Chapter 11.
-) (log.tex [35] [36
+) (log.tex [37] [38
 
 ]
 Chapter 12.
-) (results.tex [37] [38
+) (results.tex [39] [40
 
 ]
 Chapter 13.
-) (DesignDocument.bbl [39] [40
+) (DesignDocument.bbl [41] [42
 
-]) [41] [42
+]) [43] [44
 
 ]
 
 pdfTeX warning: pdflatex (file ./Contract/DahlContract.pdf): PDF inclusion: fou
 nd PDF version <1.6>, but at most version <1.5> allowed
-<Contract/DahlContract.pdf, id=1212, 614.295pt x 794.97pt>
+<Contract/DahlContract.pdf, id=1266, 614.295pt x 794.97pt>
 File: Contract/DahlContract.pdf Graphic file (type pdf)
 
 <use Contract/DahlContract.pdf>
@@ -2033,7 +2055,7 @@ nd PDF version <1.6>, but at most version <1.5> allowed
 
 pdfTeX warning: pdflatex (file ./Contract/DahlContract.pdf): PDF inclusion: fou
 nd PDF version <1.6>, but at most version <1.5> allowed
-<Contract/DahlContract.pdf, id=1215, page=1, 614.295pt x 794.97pt>
+<Contract/DahlContract.pdf, id=1269, page=1, 614.295pt x 794.97pt>
 File: Contract/DahlContract.pdf Graphic file (type pdf)
 
 <use Contract/DahlContract.pdf, page 1>
@@ -2068,7 +2090,7 @@ Package pdftex.def Info: Contract/DahlContract.pdf, page1 used on input line 74
 
 pdfTeX warning: pdflatex (file ./Contract/DahlContract.pdf): PDF inclusion: fou
 nd PDF version <1.6>, but at most version <1.5> allowed
-<Contract/DahlContract.pdf, id=1258, page=2, 614.295pt x 794.97pt>
+<Contract/DahlContract.pdf, id=1313, page=2, 614.295pt x 794.97pt>
 File: Contract/DahlContract.pdf Graphic file (type pdf)
 
 <use Contract/DahlContract.pdf, page 2>
@@ -2091,7 +2113,7 @@ Package pdftex.def Info: Contract/DahlContract.pdf, page2 used on input line 74
 
 pdfTeX warning: pdflatex (file ./Contract/DahlContract.pdf): PDF inclusion: fou
 nd PDF version <1.6>, but at most version <1.5> allowed
-<Contract/DahlContract.pdf, id=1269, page=3, 614.295pt x 794.97pt>
+<Contract/DahlContract.pdf, id=1324, page=3, 614.295pt x 794.97pt>
 File: Contract/DahlContract.pdf Graphic file (type pdf)
 
 <use Contract/DahlContract.pdf, page 3>
@@ -2114,7 +2136,7 @@ Package pdftex.def Info: Contract/DahlContract.pdf, page3 used on input line 74
 
 pdfTeX warning: pdflatex (file ./Contract/DahlContract.pdf): PDF inclusion: fou
 nd PDF version <1.6>, but at most version <1.5> allowed
-<Contract/DahlContract.pdf, id=1275, page=4, 614.295pt x 794.97pt>
+<Contract/DahlContract.pdf, id=1329, page=4, 614.295pt x 794.97pt>
 File: Contract/DahlContract.pdf Graphic file (type pdf)
 
 <use Contract/DahlContract.pdf, page 4>
@@ -2137,7 +2159,7 @@ Package pdftex.def Info: Contract/DahlContract.pdf, page4 used on input line 74
 Appendix A.
 (productdescription.tex
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <14.4> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 10.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 18.
 ) [1
 
 ] [2
@@ -2158,22 +2180,15 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 140.
  (DesignDocument.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 140.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 140.
-
-
-Package rerunfilecheck Warning: File `DesignDocument.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `DesignDocument.out':
-(rerunfilecheck)             Before: 549759B288D92628258E85CFD5765461;10789
-(rerunfilecheck)             After:  21319E34AB03A3BE1AA5A32CB7520F0C;11294.
+Package rerunfilecheck Info: File `DesignDocument.out' has not changed.
+(rerunfilecheck)             Checksum: 8ADD1D700C4365C42719CF34D1A514A3;11324.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 140.
  ) ) ) 
 Here is how much of TeX's memory you used:
- 26165 strings out of 493673
- 465964 string characters out of 3141524
- 612660 words of memory out of 3000000
- 28551 multiletter control sequences out of 15000+200000
+ 26190 strings out of 493673
+ 466330 string characters out of 3141524
+ 612723 words of memory out of 3000000
+ 28562 multiletter control sequences out of 15000+200000
  72582 words of font info for 72 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  64i,18n,72p,3300b,530s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2192,9 +2207,9 @@ TeX 2.9/fonts/type1/public/lm/lmsso10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
 nts/type1/public/lm/lmsso12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/
 public/lm/lmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/l
 mtt10.pfb>
-Output written on DesignDocument.pdf (69 pages, 3997896 bytes).
+Output written on DesignDocument.pdf (71 pages, 4245993 bytes).
 PDF statistics:
- 1435 PDF objects out of 1440 (max. 8388607)
- 291 named destinations out of 1000 (max. 500000)
- 1420 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1491 PDF objects out of 1728 (max. 8388607)
+ 304 named destinations out of 1000 (max. 500000)
+ 1481 words of extra memory for PDF output out of 10000 (max. 10000000)
 

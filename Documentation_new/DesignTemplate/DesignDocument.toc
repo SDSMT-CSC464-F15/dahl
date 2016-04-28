@@ -72,99 +72,99 @@
 \contentsline {section}{\numberline {4.1}Architecture and System Design}{15}{section.4.1}
 \contentsline {subsection}{\numberline {4.1.1}Design Selection}{15}{subsection.4.1.1}
 \contentsline {subsection}{\numberline {4.1.2}Data Structures and Algorithms}{15}{subsection.4.1.2}
-\contentsline {subsection}{\numberline {4.1.3}Data Flow}{15}{subsection.4.1.3}
-\contentsline {subsection}{\numberline {4.1.4}Communications}{15}{subsection.4.1.4}
-\contentsline {subsection}{\numberline {4.1.5}Classes}{15}{subsection.4.1.5}
-\contentsline {subsection}{\numberline {4.1.6}UML}{15}{subsection.4.1.6}
-\contentsline {subsection}{\numberline {4.1.7}GUI}{15}{subsection.4.1.7}
-\contentsline {subsection}{\numberline {4.1.8}MVVM, etc}{15}{subsection.4.1.8}
-\contentsline {section}{\numberline {4.2} Movement }{15}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Technologies Used}{15}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}Component Overview}{16}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {4.2.3} Architecture Diagram}{16}{subsection.4.2.3}
-\contentsline {subsection}{\numberline {4.2.4}Design Details}{16}{subsection.4.2.4}
-\contentsline {section}{\numberline {4.3}Paintings }{16}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}Technologies Used}{16}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {4.3.2}Component Overview}{16}{subsection.4.3.2}
-\contentsline {subsection}{\numberline {4.3.3} Architecture Diagram}{17}{subsection.4.3.3}
-\contentsline {subsection}{\numberline {4.3.4}Data Flow Diagram}{17}{subsection.4.3.4}
-\contentsline {subsection}{\numberline {4.3.5}Design Details}{17}{subsection.4.3.5}
-\contentsline {section}{\numberline {4.4}Gallery }{17}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}Technologies Used}{17}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}Component Overview}{17}{subsection.4.4.2}
-\contentsline {subsection}{\numberline {4.4.3} Architecture Diagram}{18}{subsection.4.4.3}
-\contentsline {subsection}{\numberline {4.4.4}Design Details}{18}{subsection.4.4.4}
-\contentsline {section}{\numberline {4.5}Text Descriptions}{18}{section.4.5}
-\contentsline {subsection}{\numberline {4.5.1}Technologies Used}{18}{subsection.4.5.1}
-\contentsline {subsection}{\numberline {4.5.2}Component Overview}{18}{subsection.4.5.2}
-\contentsline {subsection}{\numberline {4.5.3}Architecture Diagram}{18}{subsection.4.5.3}
-\contentsline {subsection}{\numberline {4.5.4}Data Flow Diagram}{18}{subsection.4.5.4}
-\contentsline {subsection}{\numberline {4.5.5}Design Details}{18}{subsection.4.5.5}
-\contentsline {chapter}{\numberline {5}System and Unit Testing}{19}{chapter.5}
-\contentsline {section}{\numberline {5.1}Overview}{19}{section.5.1}
-\contentsline {section}{\numberline {5.2}Dependencies}{19}{section.5.2}
-\contentsline {section}{\numberline {5.3}Test Setup and Execution}{19}{section.5.3}
-\contentsline {section}{\numberline {5.4}System Testing}{19}{section.5.4}
-\contentsline {section}{\numberline {5.5}System Integration Analysis}{19}{section.5.5}
-\contentsline {section}{\numberline {5.6}Risk Analysis}{19}{section.5.6}
-\contentsline {subsection}{\numberline {5.6.1}Risk Mitigation}{19}{subsection.5.6.1}
-\contentsline {section}{\numberline {5.7}Successes, Issues and Problems}{19}{section.5.7}
-\contentsline {subsection}{\numberline {5.7.1}Changes to the Backlog}{19}{subsection.5.7.1}
-\contentsline {chapter}{\numberline {6}Prototypes}{21}{chapter.6}
-\contentsline {section}{\numberline {6.1}Sprint 1 Prototype}{21}{section.6.1}
-\contentsline {subsection}{\numberline {6.1.1}Deliverable}{21}{subsection.6.1.1}
-\contentsline {subsection}{\numberline {6.1.2}Backlog}{21}{subsection.6.1.2}
-\contentsline {subsection}{\numberline {6.1.3}Success/Fail}{21}{subsection.6.1.3}
-\contentsline {section}{\numberline {6.2}Sprint 2 Prototype}{21}{section.6.2}
-\contentsline {subsection}{\numberline {6.2.1}Deliverable}{21}{subsection.6.2.1}
-\contentsline {subsection}{\numberline {6.2.2}Backlog}{21}{subsection.6.2.2}
-\contentsline {subsection}{\numberline {6.2.3}Success/Fail}{23}{subsection.6.2.3}
-\contentsline {section}{\numberline {6.3}Sprint 3 Prototype}{23}{section.6.3}
-\contentsline {subsection}{\numberline {6.3.1}Deliverable}{23}{subsection.6.3.1}
-\contentsline {subsection}{\numberline {6.3.2}Backlog}{25}{subsection.6.3.2}
-\contentsline {subsection}{\numberline {6.3.3}Success/Fail}{25}{subsection.6.3.3}
-\contentsline {section}{\numberline {6.4}Sprint 4 Prototype}{25}{section.6.4}
-\contentsline {subsection}{\numberline {6.4.1}Deliverable}{25}{subsection.6.4.1}
-\contentsline {subsection}{\numberline {6.4.2}Backlog}{25}{subsection.6.4.2}
-\contentsline {subsection}{\numberline {6.4.3}Success/Fail}{25}{subsection.6.4.3}
-\contentsline {section}{\numberline {6.5}Sprint 5 Prototype}{25}{section.6.5}
-\contentsline {subsection}{\numberline {6.5.1}Deliverable}{25}{subsection.6.5.1}
-\contentsline {subsection}{\numberline {6.5.2}Backlog}{25}{subsection.6.5.2}
-\contentsline {subsection}{\numberline {6.5.3}Success/Fail}{25}{subsection.6.5.3}
-\contentsline {chapter}{\numberline {7}Release -- Setup -- Deployment}{27}{chapter.7}
-\contentsline {section}{\numberline {7.1}Deployment Information and Dependencies}{27}{section.7.1}
-\contentsline {section}{\numberline {7.2}Setup Information}{27}{section.7.2}
-\contentsline {section}{\numberline {7.3}System Versioning Information}{27}{section.7.3}
-\contentsline {chapter}{\numberline {8}User Documentation}{29}{chapter.8}
-\contentsline {section}{\numberline {8.1}User Guide}{29}{section.8.1}
-\contentsline {section}{\numberline {8.2}Installation Guide}{29}{section.8.2}
-\contentsline {section}{\numberline {8.3}Programmer Manual}{29}{section.8.3}
-\contentsline {chapter}{\numberline {9}Class Index}{31}{chapter.9}
-\contentsline {section}{\numberline {9.1}Class List}{31}{section.9.1}
-\contentsline {chapter}{\numberline {10}Class Documentation}{33}{chapter.10}
-\contentsline {section}{\numberline {10.1}Poly Class Reference}{33}{section.10.1}
-\contentsline {subsection}{\numberline {10.1.1}Constructor \& Destructor Documentation}{33}{subsection.10.1.1}
-\contentsline {subsubsection}{\numberline {10.1.1.a}Poly}{33}{subsubsection.10.1.1.1}
-\contentsline {subsubsection}{\numberline {10.1.1.b}$\sim $\discretionary {-}{}{}Poly}{33}{subsubsection.10.1.1.2}
-\contentsline {subsection}{\numberline {10.1.2}Member Function Documentation}{33}{subsection.10.1.2}
-\contentsline {subsubsection}{\numberline {10.1.2.a}myfunction}{33}{subsubsection.10.1.2.1}
-\contentsline {chapter}{\numberline {11}Business Plan}{35}{chapter.11}
-\contentsline {section}{\numberline {11.1}Business Model}{35}{section.11.1}
-\contentsline {section}{\numberline {11.2}Market and Competition}{35}{section.11.2}
-\contentsline {section}{\numberline {11.3}Regulatory environment}{35}{section.11.3}
-\contentsline {section}{\numberline {11.4}Intellectual Property and Freedom to Operate}{35}{section.11.4}
-\contentsline {section}{\numberline {11.5}Management Team and Advisors}{35}{section.11.5}
-\contentsline {section}{\numberline {11.6}Sources and Uses of Capital}{35}{section.11.6}
-\contentsline {section}{\numberline {11.7}Financial Statements}{35}{section.11.7}
-\contentsline {section}{\numberline {11.8}Metrics and Milestones}{35}{section.11.8}
-\contentsline {section}{\numberline {11.9}Exit Plan}{35}{section.11.9}
-\contentsline {chapter}{\numberline {12}Experimental Log}{37}{chapter.12}
-\contentsline {chapter}{\numberline {13}Research Results}{39}{chapter.13}
-\contentsline {section}{\numberline {13.1}Result 1}{39}{section.13.1}
-\contentsline {section}{\numberline {13.2}Result 2}{39}{section.13.2}
-\contentsline {section}{\numberline {13.3}Conclusions}{39}{section.13.3}
-\contentsline {section}{\numberline {13.4}Further work}{39}{section.13.4}
-\contentsline {chapter}{Bibliography}{41}{chapter*.7}
+\contentsline {subsection}{\numberline {4.1.3}Data Flow}{16}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}Communications}{16}{subsection.4.1.4}
+\contentsline {subsection}{\numberline {4.1.5}Classes}{16}{subsection.4.1.5}
+\contentsline {section}{\numberline {4.2} Movement }{16}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Technologies Used}{16}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Component Overview}{17}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3} Architecture Diagram}{17}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Design Details}{17}{subsection.4.2.4}
+\contentsline {section}{\numberline {4.3}Paintings }{17}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Technologies Used}{17}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Component Overview}{17}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Design Details}{18}{subsection.4.3.3}
+\contentsline {section}{\numberline {4.4}Gallery }{18}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Technologies Used}{18}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Component Overview}{18}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3} Architecture Diagram}{19}{subsection.4.4.3}
+\contentsline {subsection}{\numberline {4.4.4}Design Details}{19}{subsection.4.4.4}
+\contentsline {section}{\numberline {4.5}Text Descriptions}{19}{section.4.5}
+\contentsline {subsection}{\numberline {4.5.1}Technologies Used}{19}{subsection.4.5.1}
+\contentsline {subsection}{\numberline {4.5.2}Component Overview}{19}{subsection.4.5.2}
+\contentsline {subsection}{\numberline {4.5.3}Architecture Diagram}{19}{subsection.4.5.3}
+\contentsline {subsection}{\numberline {4.5.4}Data Flow Diagram}{19}{subsection.4.5.4}
+\contentsline {subsection}{\numberline {4.5.5}Design Details}{19}{subsection.4.5.5}
+\contentsline {section}{\numberline {4.6}Alternate Environment}{20}{section.4.6}
+\contentsline {subsection}{\numberline {4.6.1}Technologies Used}{20}{subsection.4.6.1}
+\contentsline {subsection}{\numberline {4.6.2}Component Overview}{20}{subsection.4.6.2}
+\contentsline {subsection}{\numberline {4.6.3}Architecture Diagram}{20}{subsection.4.6.3}
+\contentsline {subsection}{\numberline {4.6.4}Design Details}{20}{subsection.4.6.4}
+\contentsline {chapter}{\numberline {5}System and Unit Testing}{21}{chapter.5}
+\contentsline {section}{\numberline {5.1}Overview}{21}{section.5.1}
+\contentsline {section}{\numberline {5.2}Dependencies}{21}{section.5.2}
+\contentsline {section}{\numberline {5.3}Test Setup and Execution}{21}{section.5.3}
+\contentsline {section}{\numberline {5.4}System Testing}{21}{section.5.4}
+\contentsline {section}{\numberline {5.5}System Integration Analysis}{21}{section.5.5}
+\contentsline {section}{\numberline {5.6}Risk Analysis}{21}{section.5.6}
+\contentsline {subsection}{\numberline {5.6.1}Risk Mitigation}{21}{subsection.5.6.1}
+\contentsline {section}{\numberline {5.7}Successes, Issues and Problems}{21}{section.5.7}
+\contentsline {subsection}{\numberline {5.7.1}Changes to the Backlog}{21}{subsection.5.7.1}
+\contentsline {chapter}{\numberline {6}Prototypes}{23}{chapter.6}
+\contentsline {section}{\numberline {6.1}Sprint 1 Prototype}{23}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Deliverable}{23}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.2}Backlog}{23}{subsection.6.1.2}
+\contentsline {subsection}{\numberline {6.1.3}Success/Fail}{23}{subsection.6.1.3}
+\contentsline {section}{\numberline {6.2}Sprint 2 Prototype}{23}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Deliverable}{23}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}Backlog}{23}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {6.2.3}Success/Fail}{25}{subsection.6.2.3}
+\contentsline {section}{\numberline {6.3}Sprint 3 Prototype}{25}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}Deliverable}{25}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.2}Backlog}{27}{subsection.6.3.2}
+\contentsline {subsection}{\numberline {6.3.3}Success/Fail}{27}{subsection.6.3.3}
+\contentsline {section}{\numberline {6.4}Sprint 4 Prototype}{27}{section.6.4}
+\contentsline {subsection}{\numberline {6.4.1}Deliverable}{27}{subsection.6.4.1}
+\contentsline {subsection}{\numberline {6.4.2}Backlog}{27}{subsection.6.4.2}
+\contentsline {subsection}{\numberline {6.4.3}Success/Fail}{27}{subsection.6.4.3}
+\contentsline {section}{\numberline {6.5}Sprint 5 Prototype}{27}{section.6.5}
+\contentsline {subsection}{\numberline {6.5.1}Deliverable}{27}{subsection.6.5.1}
+\contentsline {subsection}{\numberline {6.5.2}Backlog}{27}{subsection.6.5.2}
+\contentsline {subsection}{\numberline {6.5.3}Success/Fail}{27}{subsection.6.5.3}
+\contentsline {chapter}{\numberline {7}Release -- Setup -- Deployment}{29}{chapter.7}
+\contentsline {section}{\numberline {7.1}Deployment Information and Dependencies}{29}{section.7.1}
+\contentsline {section}{\numberline {7.2}Setup Information}{29}{section.7.2}
+\contentsline {section}{\numberline {7.3}System Versioning Information}{29}{section.7.3}
+\contentsline {chapter}{\numberline {8}User Documentation}{31}{chapter.8}
+\contentsline {section}{\numberline {8.1}User Guide}{31}{section.8.1}
+\contentsline {section}{\numberline {8.2}Installation Guide}{31}{section.8.2}
+\contentsline {section}{\numberline {8.3}Programmer Manual}{31}{section.8.3}
+\contentsline {chapter}{\numberline {9}Class Index}{33}{chapter.9}
+\contentsline {section}{\numberline {9.1}Class List}{33}{section.9.1}
+\contentsline {chapter}{\numberline {10}Class Documentation}{35}{chapter.10}
+\contentsline {section}{\numberline {10.1}Poly Class Reference}{35}{section.10.1}
+\contentsline {subsection}{\numberline {10.1.1}Constructor \& Destructor Documentation}{35}{subsection.10.1.1}
+\contentsline {subsubsection}{\numberline {10.1.1.a}Poly}{35}{subsubsection.10.1.1.1}
+\contentsline {subsubsection}{\numberline {10.1.1.b}$\sim $\discretionary {-}{}{}Poly}{35}{subsubsection.10.1.1.2}
+\contentsline {subsection}{\numberline {10.1.2}Member Function Documentation}{35}{subsection.10.1.2}
+\contentsline {subsubsection}{\numberline {10.1.2.a}myfunction}{35}{subsubsection.10.1.2.1}
+\contentsline {chapter}{\numberline {11}Business Plan}{37}{chapter.11}
+\contentsline {section}{\numberline {11.1}Business Model}{37}{section.11.1}
+\contentsline {section}{\numberline {11.2}Market and Competition}{37}{section.11.2}
+\contentsline {section}{\numberline {11.3}Regulatory environment}{37}{section.11.3}
+\contentsline {section}{\numberline {11.4}Intellectual Property and Freedom to Operate}{37}{section.11.4}
+\contentsline {section}{\numberline {11.5}Management Team and Advisors}{37}{section.11.5}
+\contentsline {section}{\numberline {11.6}Sources and Uses of Capital}{37}{section.11.6}
+\contentsline {section}{\numberline {11.7}Financial Statements}{37}{section.11.7}
+\contentsline {section}{\numberline {11.8}Metrics and Milestones}{37}{section.11.8}
+\contentsline {section}{\numberline {11.9}Exit Plan}{37}{section.11.9}
+\contentsline {chapter}{\numberline {12}Experimental Log}{39}{chapter.12}
+\contentsline {chapter}{\numberline {13}Research Results}{41}{chapter.13}
+\contentsline {section}{\numberline {13.1}Result 1}{41}{section.13.1}
+\contentsline {section}{\numberline {13.2}Result 2}{41}{section.13.2}
+\contentsline {section}{\numberline {13.3}Conclusions}{41}{section.13.3}
+\contentsline {section}{\numberline {13.4}Further work}{41}{section.13.4}
+\contentsline {chapter}{Bibliography}{43}{chapter*.7}
 \contentsline {chapter}{Software Agreement}{SA-1}{chapter.14}
 \contentsline {chapter}{\numberline {A}Product Description}{A-1}{appendix.A}
 \contentsline {chapter}{\numberline {B}Publications}{B-1}{appendix.B}
