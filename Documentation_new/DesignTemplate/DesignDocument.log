@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.24)  2 MAY 2016 22:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.24)  3 MAY 2016 20:15
 entering extended mode
 **DesignDocument.tex
 (DesignDocument.tex
@@ -1595,22 +1595,22 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 ]
 (DesignDocument.toc [3] [4] [5]
-Overfull \hbox (8.25029pt too wide) detected at line 174
- []\T1/lmss/m/n/10 BM-1
- []
-
-
 Overfull \hbox (8.25029pt too wide) detected at line 175
  []\T1/lmss/m/n/10 BM-1
  []
 
 
 Overfull \hbox (8.25029pt too wide) detected at line 176
- []\T1/lmss/m/n/10 BM-2
+ []\T1/lmss/m/n/10 BM-1
  []
 
 
 Overfull \hbox (8.25029pt too wide) detected at line 177
+ []\T1/lmss/m/n/10 BM-2
+ []
+
+
+Overfull \hbox (8.25029pt too wide) detected at line 178
  []\T1/lmss/m/n/10 BM-2
  []
 
@@ -1647,7 +1647,7 @@ Overfull \hbox (7.03629pt too wide) in paragraph at lines 16--37
 
 ] (overview.tex
 Chapter 1.
-(industrial.tex <Resumes/Mack'sResume.pdf, id=963, 614.295pt x 794.97pt>
+(industrial.tex <Resumes/Mack'sResume.pdf, id=966, 614.295pt x 794.97pt>
 File: Resumes/Mack'sResume.pdf Graphic file (type pdf)
 
 <use Resumes/Mack'sResume.pdf>
@@ -1658,7 +1658,7 @@ File: Resumes/Mack'sResume.pdf Graphic file (type pdf)
 Package pdftex.def Info: Resumes/Mack'sResume.pdf used on input line 12.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<Resumes/Mack'sResume.pdf, id=966, page=1, 614.295pt x 794.97pt>
+<Resumes/Mack'sResume.pdf, id=969, page=1, 614.295pt x 794.97pt>
 File: Resumes/Mack'sResume.pdf Graphic file (type pdf)
 
 <use Resumes/Mack'sResume.pdf, page 1>
@@ -1692,7 +1692,7 @@ Package pdftex.def Info: Resumes/Mack'sResume.pdf, page1 used on input line 12.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 
 [2 <./Resumes/Mack'sResume.pdf>]
-<Resumes/Alex'sResume.pdf, id=997, 614.295pt x 794.97pt>
+<Resumes/Alex'sResume.pdf, id=1000, 614.295pt x 794.97pt>
 File: Resumes/Alex'sResume.pdf Graphic file (type pdf)
 
 <use Resumes/Alex'sResume.pdf>
@@ -1703,7 +1703,7 @@ File: Resumes/Alex'sResume.pdf Graphic file (type pdf)
 Package pdftex.def Info: Resumes/Alex'sResume.pdf used on input line 13.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<Resumes/Alex'sResume.pdf, id=1000, page=1, 614.295pt x 794.97pt>
+<Resumes/Alex'sResume.pdf, id=1003, page=1, 614.295pt x 794.97pt>
 File: Resumes/Alex'sResume.pdf Graphic file (type pdf)
 
 <use Resumes/Alex'sResume.pdf, page 1>
@@ -1733,31 +1733,23 @@ Package pdftex.def Info: Resumes/Alex'sResume.pdf, page1 used on input line 13.
 
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [3 <./Resumes/Alex'sResume.pdf>])
-[4] <./diagram.png, id=1044, 722.7pt x 542.025pt>
-File: ./diagram.png Graphic file (type png)
- <use ./diagram.png>
-Package pdftex.def Info: ./diagram.png used on input line 67.
-(pdftex.def)             Requested size: 352.31624pt x 264.23819pt.
-)
-(requirements.tex [5pdfTeX warning (ext4): destination with the same identifier
- (name{figure.1.1}) has been already used, duplicate ignored
+[4] <Diagrams/SystemDiagram.png, id=1047, 440.39531pt x 203.25937pt>
+File: Diagrams/SystemDiagram.png Graphic file (type png)
+
+<use Diagrams/SystemDiagram.png>
+Package pdftex.def Info: Diagrams/SystemDiagram.png used on input line 74.
+(pdftex.def)             Requested size: 352.31624pt x 162.6139pt.
+ [5pdfTeX warning (ext4): destination with the same identifier (name{figure.1.1
+}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.3 \chapter
-            {User Stories,  Requirements, and Product Backlog}pdfTeX warning (e
-xt4): destination with the same identifier (name{table.1.1}) has been already u
-sed, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.3 \chapter
-            {User Stories,  Requirements, and Product Backlog} <./diagram.png>]
-[6
-
-]
+l.86 
+      <./Diagrams/SystemDiagram.png>]) (requirements.tex [6]
 Chapter 2.
-[7] [8] [9]
+[7
+
+] [8] [9]
 LaTeX Font Info:    Try loading font information for TS1+lmss on input line 129
 .
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\ts1lmss.fd"
@@ -1821,9 +1813,7 @@ l.4 \chapter
 
 ]
 Chapter 4.
-<Diagrams/SystemDiagram.png, id=1102, 440.39531pt x 203.25937pt>
 File: Diagrams/SystemDiagram.png Graphic file (type png)
-
 <use Diagrams/SystemDiagram.png>
 Package pdftex.def Info: Diagrams/SystemDiagram.png used on input line 24.
 (pdftex.def)             Requested size: 440.39423pt x 203.25887pt.
@@ -1833,8 +1823,8 @@ re.4.1}) has been already used, duplicate ignored
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.72 	\item K
-             eyboard and mouse <./Diagrams/SystemDiagram.png>]
-<Diagrams/XboxControlDiagram.png, id=1116, 441.14813pt x 277.035pt>
+             eyboard and mouse]
+<Diagrams/XboxControlDiagram.png, id=1118, 441.14813pt x 277.035pt>
 File: Diagrams/XboxControlDiagram.png Graphic file (type png)
 
 <use Diagrams/XboxControlDiagram.png>
@@ -1848,7 +1838,7 @@ Package pdftex.def Info: Diagrams/XboxControlDiagram.png used on input line 90.
                                                   \fi \fi 
 l.117 \item P
              ainting texture files <./Diagrams/XboxControlDiagram.png>]
-<Diagrams/GalleryDiagram.png, id=1128, 514.92375pt x 262.73157pt>
+<Diagrams/GalleryDiagram.png, id=1130, 514.92375pt x 262.73157pt>
 File: Diagrams/GalleryDiagram.png Graphic file (type png)
 
 <use Diagrams/GalleryDiagram.png>
@@ -1864,7 +1854,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [18]
 [19 <./Diagrams/GalleryDiagram.png>]
-<Diagrams/AltEnvironment.png, id=1143, 304.13625pt x 226.59656pt>
+<Diagrams/AltEnvironment.png, id=1145, 304.13625pt x 226.59656pt>
 File: Diagrams/AltEnvironment.png Graphic file (type png)
 
 <use Diagrams/AltEnvironment.png>
@@ -1901,7 +1891,7 @@ l.29 	\end{enumerate}
                      
 Things are pretty mixed up, but I think the worst is over.
 
-<Diagrams/surveyresults.png, id=1156, 608.2725pt x 356.83313pt>
+<Diagrams/surveyresults.png, id=1158, 608.2725pt x 356.83313pt>
 File: Diagrams/surveyresults.png Graphic file (type png)
 
 <use Diagrams/surveyresults.png>
@@ -2904,15 +2894,15 @@ Package rerunfilecheck Warning: File `DesignDocument.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `DesignDocument.out':
-(rerunfilecheck)             Before: DC98C90519C163FA04EC6C7B27361828;11605
-(rerunfilecheck)             After:  0DA4FE1F09BDD3734EBA9E866BE1BF1E;11745.
+(rerunfilecheck)             Before: EA15228091629688F2529B300C8EE3AD;11731
+(rerunfilecheck)             After:  E54CC648CFAB50CDDB070B132DFCDD51;11641.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 113.
  ) 
 Here is how much of TeX's memory you used:
- 26351 strings out of 493673
- 471131 string characters out of 3141524
+ 26344 strings out of 493673
+ 471037 string characters out of 3141524
  609703 words of memory out of 3000000
- 28656 multiletter control sequences out of 15000+200000
+ 28652 multiletter control sequences out of 15000+200000
  84924 words of font info for 80 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  64i,18n,72p,3300b,530s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2939,9 +2929,9 @@ ublic/lm/lmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lm
 sy7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmtt10.pfb><C:
 /Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program
  Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on DesignDocument.pdf (106 pages, 16574350 bytes).
+Output written on DesignDocument.pdf (106 pages, 16556435 bytes).
 PDF statistics:
  2073 PDF objects out of 2073 (max. 8388607)
- 354 named destinations out of 1000 (max. 500000)
- 1731 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 352 named destinations out of 1000 (max. 500000)
+ 1734 words of extra memory for PDF output out of 10000 (max. 10000000)
 
