@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.1.16)  28 APR 2016 16:48
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.1.16)  1 MAY 2016 21:33
 entering extended mode
 **DesignDocument.tex
 
@@ -1630,7 +1630,7 @@ Overfull \hbox (7.03629pt too wide) in paragraph at lines 16--37
 Chapter 1.
 
 (C:\Users\7047629\Documents\dahl\Documentation_new\DesignTemplate\industrial.te
-x <Resumes/Mack'sResume.pdf, id=971, 614.295pt x 794.97pt>
+x <Resumes/Mack'sResume.pdf, id=1026, 614.295pt x 794.97pt>
 File: Resumes/Mack'sResume.pdf Graphic file (type pdf)
 
 <use Resumes/Mack'sResume.pdf>
@@ -1641,7 +1641,7 @@ File: Resumes/Mack'sResume.pdf Graphic file (type pdf)
 Package pdftex.def Info: Resumes/Mack'sResume.pdf used on input line 12.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<Resumes/Mack'sResume.pdf, id=974, page=1, 614.295pt x 794.97pt>
+<Resumes/Mack'sResume.pdf, id=1029, page=1, 614.295pt x 794.97pt>
 File: Resumes/Mack'sResume.pdf Graphic file (type pdf)
 
 <use Resumes/Mack'sResume.pdf, page 1>
@@ -1675,7 +1675,7 @@ Package pdftex.def Info: Resumes/Mack'sResume.pdf, page1 used on input line 12.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 
 [2 <C:/Users/7047629/Documents/dahl/Documentation_new/DesignTemplate/Resumes/Ma
-ck'sResume.pdf>] <Resumes/Alex'sResume.pdf, id=1005, 614.295pt x 794.97pt>
+ck'sResume.pdf>] <Resumes/Alex'sResume.pdf, id=1060, 614.295pt x 794.97pt>
 File: Resumes/Alex'sResume.pdf Graphic file (type pdf)
 
 <use Resumes/Alex'sResume.pdf>
@@ -1686,7 +1686,7 @@ File: Resumes/Alex'sResume.pdf Graphic file (type pdf)
 Package pdftex.def Info: Resumes/Alex'sResume.pdf used on input line 13.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<Resumes/Alex'sResume.pdf, id=1008, page=1, 614.295pt x 794.97pt>
+<Resumes/Alex'sResume.pdf, id=1063, page=1, 614.295pt x 794.97pt>
 File: Resumes/Alex'sResume.pdf Graphic file (type pdf)
 
 <use Resumes/Alex'sResume.pdf, page 1>
@@ -1717,7 +1717,7 @@ Package pdftex.def Info: Resumes/Alex'sResume.pdf, page1 used on input line 13.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [3 <C:/Users/7047629/Documents/dahl/Documentation_new/DesignTemplate/Resumes/A
 lex'sResume.pdf>]) [4]
-<./diagram.png, id=1052, 722.7pt x 542.025pt>
+<./diagram.png, id=1107, 722.7pt x 542.025pt>
 File: ./diagram.png Graphic file (type png)
  <use ./diagram.png>
 Package pdftex.def Info: ./diagram.png used on input line 67.
@@ -1809,7 +1809,7 @@ l.4 \chapter
 
 ]
 Chapter 4.
-<Diagrams/SystemDiagram.png, id=1110, 440.39531pt x 203.25937pt>
+<Diagrams/SystemDiagram.png, id=1165, 440.39531pt x 203.25937pt>
 File: Diagrams/SystemDiagram.png Graphic file (type png)
 
 <use Diagrams/SystemDiagram.png>
@@ -1823,7 +1823,7 @@ re.4.1}) has been already used, duplicate ignored
 l.74 \end{enumerate}
                      <C:/Users/7047629/Documents/dahl/Documentation_new/DesignT
 emplate/Diagrams/SystemDiagram.png>]
-<Diagrams/XboxControlDiagram.png, id=1125, 441.14813pt x 277.035pt>
+<Diagrams/XboxControlDiagram.png, id=1180, 441.14813pt x 277.035pt>
 File: Diagrams/XboxControlDiagram.png Graphic file (type png)
 
 <use Diagrams/XboxControlDiagram.png>
@@ -1838,7 +1838,7 @@ Package pdftex.def Info: Diagrams/XboxControlDiagram.png used on input line 90.
 l.118 \item U
              E objects with textures attached <C:/Users/7047629/Documents/dahl/
 Documentation_new/DesignTemplate/Diagrams/XboxControlDiagram.png>]
-<Diagrams/GalleryDiagram.png, id=1137, 514.92375pt x 262.73157pt>
+<Diagrams/GalleryDiagram.png, id=1192, 514.92375pt x 262.73157pt>
 File: Diagrams/GalleryDiagram.png Graphic file (type png)
 
 <use Diagrams/GalleryDiagram.png>
@@ -1855,7 +1855,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [18]
 [19 <C:/Users/7047629/Documents/dahl/Documentation_new/DesignTemplate/Diagrams/
 GalleryDiagram.png>]
-<Diagrams/AltEnvironment.png, id=1151, 304.13625pt x 226.59656pt>
+<Diagrams/AltEnvironment.png, id=1206, 304.13625pt x 226.59656pt>
 File: Diagrams/AltEnvironment.png Graphic file (type png)
 
 <use Diagrams/AltEnvironment.png>
@@ -1880,7 +1880,7 @@ x [21
 
 ]
 Chapter 6.
-<SprintReports/Sprint2/basicMovement.png, id=1168, 320.69812pt x 194.97844pt>
+<SprintReports/Sprint2/basicMovement.png, id=1223, 320.69812pt x 194.97844pt>
 File: SprintReports/Sprint2/basicMovement.png Graphic file (type png)
 
 <use SprintReports/Sprint2/basicMovement.png>
@@ -1888,7 +1888,7 @@ Package pdftex.def Info: SprintReports/Sprint2/basicMovement.png used on input
 line 30.
 (pdftex.def)             Requested size: 320.69733pt x 194.97795pt.
 
-<SprintReports/Sprint2/moveToPoint.png, id=1169, 479.54156pt x 169.38281pt>
+<SprintReports/Sprint2/moveToPoint.png, id=1224, 479.54156pt x 169.38281pt>
 File: SprintReports/Sprint2/moveToPoint.png Graphic file (type png)
 
 <use SprintReports/Sprint2/moveToPoint.png>
@@ -1900,7 +1900,7 @@ Overfull \hbox (9.7854pt too wide) in paragraph at lines 35--36
  [][] 
  []
 
-<SprintReports/Sprint2/moveToPoint2.png, id=1170, 480.29437pt x 154.32657pt>
+<SprintReports/Sprint2/moveToPoint2.png, id=1225, 480.29437pt x 154.32657pt>
 File: SprintReports/Sprint2/moveToPoint2.png Graphic file (type png)
 
 <use SprintReports/Sprint2/moveToPoint2.png>
@@ -1935,7 +1935,7 @@ ew/DesignTemplate/SprintReports/Sprint2/basicMovement.png> <C:/Users/7047629/Do
 cuments/dahl/Documentation_new/DesignTemplate/SprintReports/Sprint2/moveToPoint
 .png> <C:/Users/7047629/Documents/dahl/Documentation_new/DesignTemplate/SprintR
 eports/Sprint2/moveToPoint2.png>]
-<SprintReports/Sprint3/WayMove1.png, id=1188, 816.04875pt x 398.99063pt>
+<SprintReports/Sprint3/WayMove1.png, id=1243, 816.04875pt x 398.99063pt>
 File: SprintReports/Sprint3/WayMove1.png Graphic file (type png)
 
 <use SprintReports/Sprint3/WayMove1.png>
@@ -1943,7 +1943,7 @@ Package pdftex.def Info: SprintReports/Sprint3/WayMove1.png used on input line
 60.
 (pdftex.def)             Requested size: 408.02338pt x 199.49483pt.
 
-<SprintReports/Sprint3/WayMove2.png, id=1189, 826.58812pt x 392.21532pt>
+<SprintReports/Sprint3/WayMove2.png, id=1244, 826.58812pt x 392.21532pt>
 File: SprintReports/Sprint3/WayMove2.png Graphic file (type png)
 
 <use SprintReports/Sprint3/WayMove2.png>
@@ -1951,7 +1951,7 @@ Package pdftex.def Info: SprintReports/Sprint3/WayMove2.png used on input line
 66.
 (pdftex.def)             Requested size: 413.29305pt x 196.10718pt.
 
-<SprintReports/Sprint3/Waypoint.png, id=1190, 294.34969pt x 361.35pt>
+<SprintReports/Sprint3/Waypoint.png, id=1245, 294.34969pt x 361.35pt>
 File: SprintReports/Sprint3/Waypoint.png Graphic file (type png)
 
 <use SprintReports/Sprint3/Waypoint.png>
@@ -1959,7 +1959,7 @@ Package pdftex.def Info: SprintReports/Sprint3/Waypoint.png used on input line
 72.
 (pdftex.def)             Requested size: 147.17447pt x 180.67456pt.
 
-<SprintReports/Sprint3/Example1.png, id=1191, 910.15031pt x 417.81094pt>
+<SprintReports/Sprint3/Example1.png, id=1246, 910.15031pt x 417.81094pt>
 File: SprintReports/Sprint3/Example1.png Graphic file (type png)
 
 <use SprintReports/Sprint3/Example1.png>
@@ -1967,7 +1967,7 @@ Package pdftex.def Info: SprintReports/Sprint3/Example1.png used on input line
 78.
 (pdftex.def)             Requested size: 455.07405pt x 208.90495pt.
 
-<SprintReports/Sprint3/Example2.png, id=1192, 910.15031pt x 414.79968pt>
+<SprintReports/Sprint3/Example2.png, id=1247, 910.15031pt x 414.79968pt>
 File: SprintReports/Sprint3/Example2.png Graphic file (type png)
 
 <use SprintReports/Sprint3/Example2.png>
@@ -2056,7 +2056,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 47--51
 
  []
 
-<Oculus_Config_Utility.jpg, id=1217, 284.56313pt x 383.18156pt>
+<Oculus_Config_Utility.jpg, id=1272, 284.56313pt x 383.18156pt>
 File: Oculus_Config_Utility.jpg Graphic file (type jpg)
 
 <use Oculus_Config_Utility.jpg>
@@ -2067,7 +2067,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 55--56
 
  []
 
-<Oculus_Config_Add_Profile.jpg, id=1218, 284.56313pt x 383.18156pt>
+<Oculus_Config_Add_Profile.jpg, id=1273, 284.56313pt x 383.18156pt>
 File: Oculus_Config_Add_Profile.jpg Graphic file (type jpg)
 
 <use Oculus_Config_Add_Profile.jpg>
@@ -2077,7 +2077,7 @@ Package pdftex.def Info: Oculus_Config_Add_Profile.jpg used on input line 58.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [30 <C:/Users/7047629/Documents/dahl/Documentation_new/DesignTemplate/Oculus_C
-onfig_Utility.jpg>] <Oculus_Config_Name_Profile.jpg, id=1223, 284.56313pt x 383
+onfig_Utility.jpg>] <Oculus_Config_Name_Profile.jpg, id=1278, 284.56313pt x 383
 .18156pt>
 File: Oculus_Config_Name_Profile.jpg Graphic file (type jpg)
 
@@ -2085,7 +2085,7 @@ File: Oculus_Config_Name_Profile.jpg Graphic file (type jpg)
 Package pdftex.def Info: Oculus_Config_Name_Profile.jpg used on input line 63.
 (pdftex.def)             Requested size: 213.42181pt x 287.38545pt.
 
-<Oculus_Config_Setup_Profile.jpg, id=1224, 284.56313pt x 383.18156pt>
+<Oculus_Config_Setup_Profile.jpg, id=1279, 284.56313pt x 383.18156pt>
 File: Oculus_Config_Setup_Profile.jpg Graphic file (type jpg)
 
 <use Oculus_Config_Setup_Profile.jpg>
@@ -2098,7 +2098,7 @@ Underfull \vbox (badness 3907) has occurred while \output is active []
  [31 <C:/Users/7047629/Documents/dahl/Documentation_new/DesignTemplate/Oculus_C
 onfig_Add_Profile.jpg> <C:/Users/7047629/Documents/dahl/Documentation_new/Desig
 nTemplate/Oculus_Config_Name_Profile.jpg>]
-<Oculus_Config_Demo_Sceen.jpg, id=1229, 975.645pt x 570.63188pt>
+<Oculus_Config_Demo_Sceen.jpg, id=1284, 975.645pt x 570.63188pt>
 File: Oculus_Config_Demo_Sceen.jpg Graphic file (type jpg)
 
 <use Oculus_Config_Demo_Sceen.jpg>
@@ -2116,14 +2116,113 @@ gnTemplate/Oculus_Config_Demo_Sceen.jpg>] [33] [34
 
 ]
 Chapter 8.
-) (C:\Users\7047629\Documents\dahl\Documentation_new\DesignTemplate\refman.tex
-[35] [36
 
-]
+Underfull \hbox (badness 10000) in paragraph at lines 17--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--47
+
+ []
+
+[35]
+Underfull \hbox (badness 10000) in paragraph at lines 49--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--53
+
+ []
+
+File: Oculus_Config_Utility.jpg Graphic file (type jpg)
+<use Oculus_Config_Utility.jpg>
+Package pdftex.def Info: Oculus_Config_Utility.jpg used on input line 55.
+(pdftex.def)             Requested size: 213.42181pt x 287.38545pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
+
+ []
+
+File: Oculus_Config_Add_Profile.jpg Graphic file (type jpg)
+<use Oculus_Config_Add_Profile.jpg>
+Package pdftex.def Info: Oculus_Config_Add_Profile.jpg used on input line 60.
+(pdftex.def)             Requested size: 213.42181pt x 287.38545pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [36]
+File: Oculus_Config_Name_Profile.jpg Graphic file (type jpg)
+
+<use Oculus_Config_Name_Profile.jpg>
+Package pdftex.def Info: Oculus_Config_Name_Profile.jpg used on input line 65.
+(pdftex.def)             Requested size: 213.42181pt x 287.38545pt.
+File: Oculus_Config_Setup_Profile.jpg Graphic file (type jpg)
+ <use Oculus_Config_Setup_Profile.jpg>
+Package pdftex.def Info: Oculus_Config_Setup_Profile.jpg used on input line 70.
+
+(pdftex.def)             Requested size: 213.42181pt x 287.38545pt.
+
+Underfull \vbox (badness 3907) has occurred while \output is active []
+
+ [37]
+File: Oculus_Config_Demo_Sceen.jpg Graphic file (type jpg)
+
+<use Oculus_Config_Demo_Sceen.jpg>
+Package pdftex.def Info: Oculus_Config_Demo_Sceen.jpg used on input line 75.
+(pdftex.def)             Requested size: 341.48087pt x 199.72415pt.
+File: Oculus_Config_Utility.jpg Graphic file (type jpg)
+ <use Oculus_Config_Utility.jpg>
+Package pdftex.def Info: Oculus_Config_Utility.jpg used on input line 84.
+(pdftex.def)             Requested size: 213.42181pt x 287.38545pt.
+
+Underfull \vbox (badness 1264) has occurred while \output is active []
+
+ [38]
+File: Diagrams/XboxControlDiagram.png Graphic file (type png)
+
+<use Diagrams/XboxControlDiagram.png>
+Package pdftex.def Info: Diagrams/XboxControlDiagram.png used on input line 100
+.
+(pdftex.def)             Requested size: 330.86028pt x 207.77573pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [39])
+(C:\Users\7047629\Documents\dahl\Documentation_new\DesignTemplate\refman.tex
+[40]
 Chapter 9.
 
 (C:\Users\7047629\Documents\dahl\Documentation_new\DesignTemplate\annotated.tex
-) [37] [38
+) [41
+
+] [42
 
 ]
 Chapter 10.
@@ -2134,32 +2233,32 @@ LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <12> not available
 (Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 39.
 ))
 (C:\Users\7047629\Documents\dahl\Documentation_new\DesignTemplate\businessplan.
-tex [39] [40
+tex [43] [44
 
 ]
 Chapter 11.
 ) (C:\Users\7047629\Documents\dahl\Documentation_new\DesignTemplate\log.tex
-[41] [42
+[45] [46
 
 ]
 Chapter 12.
 ) (C:\Users\7047629\Documents\dahl\Documentation_new\DesignTemplate\results.tex
-[43] [44
+[47] [48
 
 ]
 Chapter 13.
 )
 (C:\Users\7047629\Documents\dahl\Documentation_new\DesignTemplate\DesignDocumen
-t.bbl [45] [46
+t.bbl [49] [50
 
-]) [47] [48
+]) [51] [52
 
 ]
 
 pdfTeX warning: miktex-pdftex.exe (file C:/Users/7047629/Documents/dahl/Documen
 tation_new/DesignTemplate/Contract/DahlContract.pdf): PDF inclusion: found PDF 
 version <1.6>, but at most version <1.5> allowed
-<Contract/DahlContract.pdf, id=1325, 614.295pt x 794.97pt>
+<Contract/DahlContract.pdf, id=1399, 614.295pt x 794.97pt>
 File: Contract/DahlContract.pdf Graphic file (type pdf)
 
 <use Contract/DahlContract.pdf>
@@ -2184,7 +2283,7 @@ version <1.6>, but at most version <1.5> allowed
 pdfTeX warning: miktex-pdftex.exe (file C:/Users/7047629/Documents/dahl/Documen
 tation_new/DesignTemplate/Contract/DahlContract.pdf): PDF inclusion: found PDF 
 version <1.6>, but at most version <1.5> allowed
-<Contract/DahlContract.pdf, id=1328, page=1, 614.295pt x 794.97pt>
+<Contract/DahlContract.pdf, id=1402, page=1, 614.295pt x 794.97pt>
 File: Contract/DahlContract.pdf Graphic file (type pdf)
 
 <use Contract/DahlContract.pdf, page 1>
@@ -2221,7 +2320,7 @@ DahlContract.pdf>]
 pdfTeX warning: miktex-pdftex.exe (file C:/Users/7047629/Documents/dahl/Documen
 tation_new/DesignTemplate/Contract/DahlContract.pdf): PDF inclusion: found PDF 
 version <1.6>, but at most version <1.5> allowed
-<Contract/DahlContract.pdf, id=1371, page=2, 614.295pt x 794.97pt>
+<Contract/DahlContract.pdf, id=1445, page=2, 614.295pt x 794.97pt>
 File: Contract/DahlContract.pdf Graphic file (type pdf)
 
 <use Contract/DahlContract.pdf, page 2>
@@ -2246,7 +2345,7 @@ DahlContract.pdf>]
 pdfTeX warning: miktex-pdftex.exe (file C:/Users/7047629/Documents/dahl/Documen
 tation_new/DesignTemplate/Contract/DahlContract.pdf): PDF inclusion: found PDF 
 version <1.6>, but at most version <1.5> allowed
-<Contract/DahlContract.pdf, id=1382, page=3, 614.295pt x 794.97pt>
+<Contract/DahlContract.pdf, id=1456, page=3, 614.295pt x 794.97pt>
 File: Contract/DahlContract.pdf Graphic file (type pdf)
 
 <use Contract/DahlContract.pdf, page 3>
@@ -2271,7 +2370,7 @@ DahlContract.pdf>]
 pdfTeX warning: miktex-pdftex.exe (file C:/Users/7047629/Documents/dahl/Documen
 tation_new/DesignTemplate/Contract/DahlContract.pdf): PDF inclusion: found PDF 
 version <1.6>, but at most version <1.5> allowed
-<Contract/DahlContract.pdf, id=1388, page=4, 614.295pt x 794.97pt>
+<Contract/DahlContract.pdf, id=1461, page=4, 614.295pt x 794.97pt>
 File: Contract/DahlContract.pdf Graphic file (type pdf)
 
 <use Contract/DahlContract.pdf, page 4>
@@ -2323,47 +2422,34 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 140.
 t.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 140.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 140.
-
-
-Package rerunfilecheck Warning: File `DesignDocument.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `DesignDocument.out':
-(rerunfilecheck)             Before: F5553A7A213DB1FB19659AA3D4E38347;11859
-(rerunfilecheck)             After:  D018D07C6974B0457C2830A46A21678F;11730.
+Package rerunfilecheck Info: File `DesignDocument.out' has not changed.
+(rerunfilecheck)             Checksum: 40520B108B11E02D37A6D92BCB13A886;12759.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 140.
  ) ) ) 
 Here is how much of TeX's memory you used:
- 26209 strings out of 493921
- 468606 string characters out of 3147276
- 607307 words of memory out of 3000000
- 28511 multiletter control sequences out of 15000+200000
+ 26235 strings out of 493921
+ 469008 string characters out of 3147276
+ 607334 words of memory out of 3000000
+ 28522 multiletter control sequences out of 15000+200000
  72582 words of font info for 72 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  64i,18n,72p,3300b,530s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{subsection.7.2.7} has been referenced but doe
-s not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.7.2.6} has been referenced but does not 
-exist, replaced by a fixed one
-
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/MiK
-TeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc
-/dvips/lm/lm-ts1.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.
-pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Pr
-ogram Files/MiKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C:/Program Files/MiKTe
-X 2.9/fonts/type1/public/lm/lmss12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
-/public/lm/lmss17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss8.
-pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbo10.pfb><C:/Program
- Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2
-.9/fonts/type1/public/lm/lmsso10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
-ublic/lm/lmsso12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.
-pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmtt10.pfb>
-Output written on DesignDocument.pdf (75 pages, 4450510 bytes).
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Fil
+es/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program Files/MiKTeX 2.9/fon
+ts/enc/dvips/lm/lm-ts1.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb>
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C:/Program Files
+/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><C:/Program Files/MiKTeX 2.9/fonts
+/type1/public/lm/lmss17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/
+lmss8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbo10.pfb><C:/P
+rogram Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/lm/lmsso10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/lm/lmsso12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/l
+msy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmtt10.pfb>
+Output written on DesignDocument.pdf (79 pages, 4464210 bytes).
 PDF statistics:
- 1553 PDF objects out of 1728 (max. 8388607)
- 315 named destinations out of 1000 (max. 500000)
- 1562 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1630 PDF objects out of 1728 (max. 8388607)
+ 330 named destinations out of 1000 (max. 500000)
+ 1650 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -138,34 +138,47 @@
 \BOOKMARK [2][-]{subsection.7.2.5}{Unreal 4 Developement Engine}{section.7.2}% 138
 \BOOKMARK [1][-]{section.7.3}{System Versioning Information}{chapter.7}% 139
 \BOOKMARK [0][-]{chapter.8}{User Documentation}{}% 140
-\BOOKMARK [1][-]{section.8.1}{User Guide}{chapter.8}% 141
-\BOOKMARK [1][-]{section.8.2}{Installation Guide}{chapter.8}% 142
-\BOOKMARK [1][-]{section.8.3}{Programmer Manual}{chapter.8}% 143
-\BOOKMARK [0][-]{chapter.9}{Class Index}{}% 144
-\BOOKMARK [1][-]{section.9.1}{Class List}{chapter.9}% 145
-\BOOKMARK [0][-]{chapter.10}{Class Documentation}{}% 146
-\BOOKMARK [1][-]{section.10.1}{Poly Class Reference}{chapter.10}% 147
-\BOOKMARK [2][-]{subsection.10.1.1}{Constructor \046 Destructor Documentation}{section.10.1}% 148
-\BOOKMARK [2][-]{subsection.10.1.2}{Member Function Documentation}{section.10.1}% 149
-\BOOKMARK [0][-]{chapter.11}{Business Plan}{}% 150
-\BOOKMARK [1][-]{section.11.1}{Business Model}{chapter.11}% 151
-\BOOKMARK [1][-]{section.11.2}{Market and Competition}{chapter.11}% 152
-\BOOKMARK [1][-]{section.11.3}{Regulatory environment}{chapter.11}% 153
-\BOOKMARK [1][-]{section.11.4}{Intellectual Property and Freedom to Operate}{chapter.11}% 154
-\BOOKMARK [1][-]{section.11.5}{Management Team and Advisors}{chapter.11}% 155
-\BOOKMARK [1][-]{section.11.6}{Sources and Uses of Capital}{chapter.11}% 156
-\BOOKMARK [1][-]{section.11.7}{Financial Statements}{chapter.11}% 157
-\BOOKMARK [1][-]{section.11.8}{Metrics and Milestones}{chapter.11}% 158
-\BOOKMARK [1][-]{section.11.9}{Exit Plan}{chapter.11}% 159
-\BOOKMARK [0][-]{chapter.12}{Experimental Log}{}% 160
-\BOOKMARK [0][-]{chapter.13}{Research Results}{}% 161
-\BOOKMARK [1][-]{section.13.1}{Result 1}{chapter.13}% 162
-\BOOKMARK [1][-]{section.13.2}{Result 2}{chapter.13}% 163
-\BOOKMARK [1][-]{section.13.3}{Conclusions}{chapter.13}% 164
-\BOOKMARK [1][-]{section.13.4}{Further work}{chapter.13}% 165
-\BOOKMARK [0][-]{chapter*.7}{Bibliography}{}% 166
-\BOOKMARK [0][-]{chapter.14}{Software Agreement}{}% 167
-\BOOKMARK [0][-]{appendix.A}{Product Description}{}% 168
-\BOOKMARK [0][-]{appendix.B}{Publications}{}% 169
-\BOOKMARK [0][-]{appendix.C}{Sprint Reports}{}% 170
-\BOOKMARK [1][-]{section.C.1}{Sprint Report \0431}{appendix.C}% 171
+\BOOKMARK [1][-]{section.8.1}{Installation Guide}{chapter.8}% 141
+\BOOKMARK [2][-]{subsection.8.1.1}{Occulus SDK Installation}{section.8.1}% 142
+\BOOKMARK [2][-]{subsection.8.1.2}{Occulus Drivers-Windows}{section.8.1}% 143
+\BOOKMARK [2][-]{subsection.8.1.3}{Occulus Drivers-Mac}{section.8.1}% 144
+\BOOKMARK [2][-]{subsection.8.1.4}{Setting Up Occulus Rift Hardware}{section.8.1}% 145
+\BOOKMARK [2][-]{subsection.8.1.5}{Unreal 4 Developement Engine}{section.8.1}% 146
+\BOOKMARK [1][-]{section.8.2}{User Guide}{chapter.8}% 147
+\BOOKMARK [2][-]{subsection.8.2.1}{Running Virual Museum}{section.8.2}% 148
+\BOOKMARK [2][-]{subsection.8.2.2}{Using Oculus Rift}{section.8.2}% 149
+\BOOKMARK [2][-]{subsection.8.2.3}{Using Free Movement}{section.8.2}% 150
+\BOOKMARK [2][-]{subsection.8.2.4}{Using On Rails Movement}{section.8.2}% 151
+\BOOKMARK [2][-]{subsection.8.2.5}{Interacting with Text Descriptions}{section.8.2}% 152
+\BOOKMARK [2][-]{subsection.8.2.6}{Using Secondary Enviornment}{section.8.2}% 153
+\BOOKMARK [1][-]{section.8.3}{Programmer Manual}{chapter.8}% 154
+\BOOKMARK [2][-]{subsection.8.3.1}{Unreal 4 Editor}{section.8.3}% 155
+\BOOKMARK [2][-]{subsection.8.3.2}{Reading Blue Prints}{section.8.3}% 156
+\BOOKMARK [0][-]{chapter.9}{Class Index}{}% 157
+\BOOKMARK [1][-]{section.9.1}{Class List}{chapter.9}% 158
+\BOOKMARK [0][-]{chapter.10}{Class Documentation}{}% 159
+\BOOKMARK [1][-]{section.10.1}{Poly Class Reference}{chapter.10}% 160
+\BOOKMARK [2][-]{subsection.10.1.1}{Constructor \046 Destructor Documentation}{section.10.1}% 161
+\BOOKMARK [2][-]{subsection.10.1.2}{Member Function Documentation}{section.10.1}% 162
+\BOOKMARK [0][-]{chapter.11}{Business Plan}{}% 163
+\BOOKMARK [1][-]{section.11.1}{Business Model}{chapter.11}% 164
+\BOOKMARK [1][-]{section.11.2}{Market and Competition}{chapter.11}% 165
+\BOOKMARK [1][-]{section.11.3}{Regulatory environment}{chapter.11}% 166
+\BOOKMARK [1][-]{section.11.4}{Intellectual Property and Freedom to Operate}{chapter.11}% 167
+\BOOKMARK [1][-]{section.11.5}{Management Team and Advisors}{chapter.11}% 168
+\BOOKMARK [1][-]{section.11.6}{Sources and Uses of Capital}{chapter.11}% 169
+\BOOKMARK [1][-]{section.11.7}{Financial Statements}{chapter.11}% 170
+\BOOKMARK [1][-]{section.11.8}{Metrics and Milestones}{chapter.11}% 171
+\BOOKMARK [1][-]{section.11.9}{Exit Plan}{chapter.11}% 172
+\BOOKMARK [0][-]{chapter.12}{Experimental Log}{}% 173
+\BOOKMARK [0][-]{chapter.13}{Research Results}{}% 174
+\BOOKMARK [1][-]{section.13.1}{Result 1}{chapter.13}% 175
+\BOOKMARK [1][-]{section.13.2}{Result 2}{chapter.13}% 176
+\BOOKMARK [1][-]{section.13.3}{Conclusions}{chapter.13}% 177
+\BOOKMARK [1][-]{section.13.4}{Further work}{chapter.13}% 178
+\BOOKMARK [0][-]{chapter*.7}{Bibliography}{}% 179
+\BOOKMARK [0][-]{chapter.14}{Software Agreement}{}% 180
+\BOOKMARK [0][-]{appendix.A}{Product Description}{}% 181
+\BOOKMARK [0][-]{appendix.B}{Publications}{}% 182
+\BOOKMARK [0][-]{appendix.C}{Sprint Reports}{}% 183
+\BOOKMARK [1][-]{section.C.1}{Sprint Report \0431}{appendix.C}% 184
