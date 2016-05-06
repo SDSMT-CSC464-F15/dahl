@@ -100,6 +100,28 @@ These are described in detail above in the data structures and algorithms sectio
 \subsection{Design Details}
 The movement methods are a key feature to this product.  Without a good movement system, the user will not feel immersed in the gallery and will detract from the experience.  The reason for two different methods is that the design team felt that on-rails would be a better fit for users who are inexperienced with virtual reality or handheld controller input.  The free-movement will be a better fit for people who have experience with virtual reality, or who are familiar with standard movement controls for the Xbox 360.
 
+\subsection{Blueprints}
+These are the code segments that controls user movement.
+
+\begin{figure}
+\centering
+\includegraphics[scale=1.0]{Blueprints/basicMovement.png}
+\caption{User controlled movement}
+\end{figure}
+
+\begin{figure}
+\centering
+\begin{minipage}{0.45\textwidth}
+\centering
+\includegraphics[scale=0.5]{Blueprints/moveToPoint.png}
+\caption{First half of on-rails movement}
+\end{minipage}\hfill
+\begin{minipage}{0.45\textwidth}
+\centering
+\includegraphics[scale=0.5]{Blueprints/moveToPoint2.png}
+\caption{Second half of on-rails blueprint}
+\end{minipage}
+\end{figure}
 %Should probably add more to this section
 
 
@@ -128,7 +150,7 @@ The paintings were a main feature of the project, and accurately representing th
 Creating the actual picture objects was a tedious process due to the fact that every picture file had to be converted from .jpg to .png in order for them to work in the engine.  Then was the task of making the objects in the right dimension for each painting which was done by making box objects to scale with the width and height of each painting, then dragging the .png file onto the object itself thereby creating the texture.
 
 
-\section{Gallery }
+\section{Gallery}
 
 \subsection{Technologies  Used}
 \begin{enumerate}
@@ -173,6 +195,18 @@ The text descriptions as described in the user stories, are interpretive excerpt
 
 \subsection{Design Details}
 This component was designed very similarly to the paintings, in that the method of applying this "text-texture" to the in-gallery objects was the same.  The main difference between the two, is the enlarging and shrinking of the object.  This was done using a blueprint in the Unreal Engine Blueprint editor, the blueprint itself can be viewed above in the Data Flow Diagram section.  
+
+\subsection{Blueprints}
+\begin{figure}
+\centering
+\includegraphics[scale=0.5]{Blueprints/TextDescription1.png}
+\caption{The blueprint that gets the direction the user is facing}
+\end{figure}
+\begin{figure}
+\centering
+\includegraphics[scale=0.5]{Blueprints/TextDescription2.png}
+\caption{Blueprint that handles the animation of the text description}
+\end{figure}
 
 \section{Alternate Environment}
 
