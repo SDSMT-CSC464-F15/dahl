@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.24)  3 MAY 2016 20:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.24)  5 MAY 2016 20:08
 entering extended mode
 **DesignDocument.tex
 (DesignDocument.tex
@@ -1760,46 +1760,46 @@ Chapter 3.
 [11
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 59--77
+Underfull \hbox (badness 10000) in paragraph at lines 57--75
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--77
+Underfull \hbox (badness 10000) in paragraph at lines 57--75
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--77
+Underfull \hbox (badness 10000) in paragraph at lines 57--75
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--77
+Underfull \hbox (badness 10000) in paragraph at lines 57--75
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--77
+Underfull \hbox (badness 10000) in paragraph at lines 57--75
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--77
+Underfull \hbox (badness 10000) in paragraph at lines 57--75
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--77
+Underfull \hbox (badness 10000) in paragraph at lines 57--75
 
  []
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 93.
+               Default added (so using `tbp') on input line 91.
 
 
-Overfull \hbox (385.6244pt too wide) in paragraph at lines 97--106
+Overfull \hbox (385.6244pt too wide) in paragraph at lines 95--104
  [][] 
  []
 
@@ -1809,22 +1809,22 @@ r (name{table.3.1}) has been already used, duplicate ignored
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.4 \chapter
-            {Design  and Implementation}] [14
-
-]
+            {Design  and Implementation}] [14]
 Chapter 4.
 File: Diagrams/SystemDiagram.png Graphic file (type png)
 <use Diagrams/SystemDiagram.png>
 Package pdftex.def Info: Diagrams/SystemDiagram.png used on input line 24.
 (pdftex.def)             Requested size: 440.39423pt x 203.25887pt.
- [15] [16pdfTeX warning (ext4): destination with the same identifier (name{figu
-re.4.1}) has been already used, duplicate ignored
+ [15
+
+] [16pdfTeX warning (ext4): destination with the same identifier (name{figure.4
+.1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.72 	\item K
              eyboard and mouse]
-<Diagrams/XboxControlDiagram.png, id=1118, 441.14813pt x 277.035pt>
+<Diagrams/XboxControlDiagram.png, id=1119, 441.14813pt x 277.035pt>
 File: Diagrams/XboxControlDiagram.png Graphic file (type png)
 
 <use Diagrams/XboxControlDiagram.png>
@@ -1838,7 +1838,7 @@ Package pdftex.def Info: Diagrams/XboxControlDiagram.png used on input line 90.
                                                   \fi \fi 
 l.117 \item P
              ainting texture files <./Diagrams/XboxControlDiagram.png>]
-<Diagrams/GalleryDiagram.png, id=1130, 514.92375pt x 262.73157pt>
+<Diagrams/GalleryDiagram.png, id=1131, 514.92375pt x 262.73157pt>
 File: Diagrams/GalleryDiagram.png Graphic file (type png)
 
 <use Diagrams/GalleryDiagram.png>
@@ -1854,7 +1854,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [18]
 [19 <./Diagrams/GalleryDiagram.png>]
-<Diagrams/AltEnvironment.png, id=1145, 304.13625pt x 226.59656pt>
+<Diagrams/AltEnvironment.png, id=1146, 304.13625pt x 226.59656pt>
 File: Diagrams/AltEnvironment.png Graphic file (type png)
 
 <use Diagrams/AltEnvironment.png>
@@ -1891,7 +1891,7 @@ l.29 	\end{enumerate}
                      
 Things are pretty mixed up, but I think the worst is over.
 
-<Diagrams/surveyresults.png, id=1158, 608.2725pt x 356.83313pt>
+<Diagrams/surveyresults.png, id=1159, 608.2725pt x 356.83313pt>
 File: Diagrams/surveyresults.png Graphic file (type png)
 
 <use Diagrams/surveyresults.png>
@@ -1907,7 +1907,7 @@ l.4 \chapter
 
 ]
 Chapter 6.
-<SprintReports/Sprint2/basicMovement.png, id=1175, 320.69812pt x 194.97844pt>
+<SprintReports/Sprint2/basicMovement.png, id=1176, 320.69812pt x 194.97844pt>
 File: SprintReports/Sprint2/basicMovement.png Graphic file (type png)
 
 <use SprintReports/Sprint2/basicMovement.png>
@@ -1915,7 +1915,7 @@ Package pdftex.def Info: SprintReports/Sprint2/basicMovement.png used on input
 line 30.
 (pdftex.def)             Requested size: 320.69733pt x 194.97795pt.
 
-<SprintReports/Sprint2/moveToPoint.png, id=1176, 479.54156pt x 169.38281pt>
+<SprintReports/Sprint2/moveToPoint.png, id=1177, 479.54156pt x 169.38281pt>
 File: SprintReports/Sprint2/moveToPoint.png Graphic file (type png)
 
 <use SprintReports/Sprint2/moveToPoint.png>
@@ -1927,7 +1927,7 @@ Overfull \hbox (9.7854pt too wide) in paragraph at lines 35--36
  [][] 
  []
 
-<SprintReports/Sprint2/moveToPoint2.png, id=1177, 480.29437pt x 154.32657pt>
+<SprintReports/Sprint2/moveToPoint2.png, id=1178, 480.29437pt x 154.32657pt>
 File: SprintReports/Sprint2/moveToPoint2.png Graphic file (type png)
 
 <use SprintReports/Sprint2/moveToPoint2.png>
@@ -1959,7 +1959,7 @@ identifier (name{figure.6.3}) has been already used, duplicate ignored
 l.49 \subsection{Success/Fail}
                                <./SprintReports/Sprint2/basicMovement.png> <./S
 printReports/Sprint2/moveToPoint.png> <./SprintReports/Sprint2/moveToPoint2.png
->] <SprintReports/Sprint3/WayMove1.png, id=1195, 816.04875pt x 398.99063pt>
+>] <SprintReports/Sprint3/WayMove1.png, id=1196, 816.04875pt x 398.99063pt>
 File: SprintReports/Sprint3/WayMove1.png Graphic file (type png)
 
 <use SprintReports/Sprint3/WayMove1.png>
@@ -1967,7 +1967,7 @@ Package pdftex.def Info: SprintReports/Sprint3/WayMove1.png used on input line
 60.
 (pdftex.def)             Requested size: 408.02338pt x 199.49483pt.
 
-<SprintReports/Sprint3/WayMove2.png, id=1196, 826.58812pt x 392.21532pt>
+<SprintReports/Sprint3/WayMove2.png, id=1197, 826.58812pt x 392.21532pt>
 File: SprintReports/Sprint3/WayMove2.png Graphic file (type png)
 
 <use SprintReports/Sprint3/WayMove2.png>
@@ -1975,7 +1975,7 @@ Package pdftex.def Info: SprintReports/Sprint3/WayMove2.png used on input line
 66.
 (pdftex.def)             Requested size: 413.29305pt x 196.10718pt.
 
-<SprintReports/Sprint3/Waypoint.png, id=1197, 294.34969pt x 361.35pt>
+<SprintReports/Sprint3/Waypoint.png, id=1198, 294.34969pt x 361.35pt>
 File: SprintReports/Sprint3/Waypoint.png Graphic file (type png)
 
 <use SprintReports/Sprint3/Waypoint.png>
@@ -1983,7 +1983,7 @@ Package pdftex.def Info: SprintReports/Sprint3/Waypoint.png used on input line
 72.
 (pdftex.def)             Requested size: 147.17447pt x 180.67456pt.
 
-<SprintReports/Sprint3/Example1.png, id=1198, 910.15031pt x 417.81094pt>
+<SprintReports/Sprint3/Example1.png, id=1199, 910.15031pt x 417.81094pt>
 File: SprintReports/Sprint3/Example1.png Graphic file (type png)
 
 <use SprintReports/Sprint3/Example1.png>
@@ -1991,7 +1991,7 @@ Package pdftex.def Info: SprintReports/Sprint3/Example1.png used on input line
 78.
 (pdftex.def)             Requested size: 455.07405pt x 208.90495pt.
 
-<SprintReports/Sprint3/Example2.png, id=1199, 910.15031pt x 414.79968pt>
+<SprintReports/Sprint3/Example2.png, id=1200, 910.15031pt x 414.79968pt>
 File: SprintReports/Sprint3/Example2.png Graphic file (type png)
 
 <use SprintReports/Sprint3/Example2.png>
@@ -2075,7 +2075,7 @@ Chapter 13.
 
 pdfTeX warning: pdflatex (file ./Contract/DahlContract.pdf): PDF inclusion: fou
 nd PDF version <1.6>, but at most version <1.5> allowed
-<Contract/DahlContract.pdf, id=1309, 614.295pt x 794.97pt>
+<Contract/DahlContract.pdf, id=1310, 614.295pt x 794.97pt>
 File: Contract/DahlContract.pdf Graphic file (type pdf)
 
 <use Contract/DahlContract.pdf>
@@ -2097,7 +2097,7 @@ nd PDF version <1.6>, but at most version <1.5> allowed
 
 pdfTeX warning: pdflatex (file ./Contract/DahlContract.pdf): PDF inclusion: fou
 nd PDF version <1.6>, but at most version <1.5> allowed
-<Contract/DahlContract.pdf, id=1312, page=1, 614.295pt x 794.97pt>
+<Contract/DahlContract.pdf, id=1313, page=1, 614.295pt x 794.97pt>
 File: Contract/DahlContract.pdf Graphic file (type pdf)
 
 <use Contract/DahlContract.pdf, page 1>
@@ -2132,7 +2132,7 @@ Package pdftex.def Info: Contract/DahlContract.pdf, page1 used on input line 74
 
 pdfTeX warning: pdflatex (file ./Contract/DahlContract.pdf): PDF inclusion: fou
 nd PDF version <1.6>, but at most version <1.5> allowed
-<Contract/DahlContract.pdf, id=1355, page=2, 614.295pt x 794.97pt>
+<Contract/DahlContract.pdf, id=1356, page=2, 614.295pt x 794.97pt>
 File: Contract/DahlContract.pdf Graphic file (type pdf)
 
 <use Contract/DahlContract.pdf, page 2>
@@ -2155,7 +2155,7 @@ Package pdftex.def Info: Contract/DahlContract.pdf, page2 used on input line 74
 
 pdfTeX warning: pdflatex (file ./Contract/DahlContract.pdf): PDF inclusion: fou
 nd PDF version <1.6>, but at most version <1.5> allowed
-<Contract/DahlContract.pdf, id=1366, page=3, 614.295pt x 794.97pt>
+<Contract/DahlContract.pdf, id=1367, page=3, 614.295pt x 794.97pt>
 File: Contract/DahlContract.pdf Graphic file (type pdf)
 
 <use Contract/DahlContract.pdf, page 3>
@@ -2178,7 +2178,7 @@ Package pdftex.def Info: Contract/DahlContract.pdf, page3 used on input line 74
 
 pdfTeX warning: pdflatex (file ./Contract/DahlContract.pdf): PDF inclusion: fou
 nd PDF version <1.6>, but at most version <1.5> allowed
-<Contract/DahlContract.pdf, id=1371, page=4, 614.295pt x 794.97pt>
+<Contract/DahlContract.pdf, id=1372, page=4, 614.295pt x 794.97pt>
 File: Contract/DahlContract.pdf Graphic file (type pdf)
 
 <use Contract/DahlContract.pdf, page 4>
@@ -2213,7 +2213,7 @@ Appendix B.
 ]
 Appendix C.
 (sprints.tex
-<SprintReports/Sprint1/SprintReport1.pdf, id=1415, 614.295pt x 794.97pt>
+<SprintReports/Sprint1/SprintReport1.pdf, id=1416, 614.295pt x 794.97pt>
 File: SprintReports/Sprint1/SprintReport1.pdf Graphic file (type pdf)
 
 <use SprintReports/Sprint1/SprintReport1.pdf>
@@ -2227,7 +2227,7 @@ Package pdftex.def Info: SprintReports/Sprint1/SprintReport1.pdf used on input
 line 5.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<SprintReports/Sprint1/SprintReport1.pdf, id=1418, page=1, 614.295pt x 794.97pt
+<SprintReports/Sprint1/SprintReport1.pdf, id=1419, page=1, 614.295pt x 794.97pt
 >
 File: SprintReports/Sprint1/SprintReport1.pdf Graphic file (type pdf)
  <use SprintReports/Sprint1/SprintReport1.pdf, page 1>
@@ -2260,7 +2260,7 @@ Package pdftex.def Info: SprintReports/Sprint1/SprintReport1.pdf, page1 used on
  input line 5.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [2 <./SprintReports/Sprint1/SprintReport1.pdf>]
-<SprintReports/Sprint1/SprintReport1.pdf, id=1443, page=2, 614.295pt x 794.97pt
+<SprintReports/Sprint1/SprintReport1.pdf, id=1444, page=2, 614.295pt x 794.97pt
 >
 File: SprintReports/Sprint1/SprintReport1.pdf Graphic file (type pdf)
  <use SprintReports/Sprint1/SprintReport1.pdf, page 2>
@@ -2280,7 +2280,7 @@ Package pdftex.def Info: SprintReports/Sprint1/SprintReport1.pdf, page2 used on
  input line 5.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [3 <./SprintReports/Sprint1/SprintReport1.pdf>]
-<SprintReports/Sprint1/SprintReport1.pdf, id=1449, page=3, 614.295pt x 794.97pt
+<SprintReports/Sprint1/SprintReport1.pdf, id=1450, page=3, 614.295pt x 794.97pt
 >
 File: SprintReports/Sprint1/SprintReport1.pdf Graphic file (type pdf)
  <use SprintReports/Sprint1/SprintReport1.pdf, page 3>
@@ -2300,7 +2300,7 @@ Package pdftex.def Info: SprintReports/Sprint1/SprintReport1.pdf, page3 used on
  input line 5.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [4 <./SprintReports/Sprint1/SprintReport1.pdf>]
-<SprintReports/Sprint2/SprintReport2.pdf, id=1454, 614.295pt x 794.97pt>
+<SprintReports/Sprint2/SprintReport2.pdf, id=1455, 614.295pt x 794.97pt>
 File: SprintReports/Sprint2/SprintReport2.pdf Graphic file (type pdf)
 
 <use SprintReports/Sprint2/SprintReport2.pdf>
@@ -2314,7 +2314,7 @@ Package pdftex.def Info: SprintReports/Sprint2/SprintReport2.pdf used on input
 line 7.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<SprintReports/Sprint2/SprintReport2.pdf, id=1457, page=1, 614.295pt x 794.97pt
+<SprintReports/Sprint2/SprintReport2.pdf, id=1458, page=1, 614.295pt x 794.97pt
 >
 File: SprintReports/Sprint2/SprintReport2.pdf Graphic file (type pdf)
  <use SprintReports/Sprint2/SprintReport2.pdf, page 1>
@@ -2346,7 +2346,7 @@ Package pdftex.def Info: SprintReports/Sprint2/SprintReport2.pdf, page1 used on
  input line 7.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [5 <./SprintReports/Sprint2/SprintReport2.pdf>]
-<SprintReports/Sprint2/SprintReport2.pdf, id=1472, page=2, 614.295pt x 794.97pt
+<SprintReports/Sprint2/SprintReport2.pdf, id=1473, page=2, 614.295pt x 794.97pt
 >
 File: SprintReports/Sprint2/SprintReport2.pdf Graphic file (type pdf)
  <use SprintReports/Sprint2/SprintReport2.pdf, page 2>
@@ -2366,7 +2366,7 @@ Package pdftex.def Info: SprintReports/Sprint2/SprintReport2.pdf, page2 used on
  input line 7.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [6 <./SprintReports/Sprint2/SprintReport2.pdf>]
-<SprintReports/Sprint2/SprintReport2.pdf, id=1477, page=3, 614.295pt x 794.97pt
+<SprintReports/Sprint2/SprintReport2.pdf, id=1478, page=3, 614.295pt x 794.97pt
 >
 File: SprintReports/Sprint2/SprintReport2.pdf Graphic file (type pdf)
  <use SprintReports/Sprint2/SprintReport2.pdf, page 3>
@@ -2386,7 +2386,7 @@ Package pdftex.def Info: SprintReports/Sprint2/SprintReport2.pdf, page3 used on
  input line 7.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [7 <./SprintReports/Sprint2/SprintReport2.pdf>]
-<SprintReports/Sprint3/Sprint3Report.pdf, id=1485, 614.295pt x 794.97pt>
+<SprintReports/Sprint3/Sprint3Report.pdf, id=1486, 614.295pt x 794.97pt>
 File: SprintReports/Sprint3/Sprint3Report.pdf Graphic file (type pdf)
 
 <use SprintReports/Sprint3/Sprint3Report.pdf>
@@ -2400,7 +2400,7 @@ Package pdftex.def Info: SprintReports/Sprint3/Sprint3Report.pdf used on input
 line 9.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<SprintReports/Sprint3/Sprint3Report.pdf, id=1488, page=1, 614.295pt x 794.97pt
+<SprintReports/Sprint3/Sprint3Report.pdf, id=1489, page=1, 614.295pt x 794.97pt
 >
 File: SprintReports/Sprint3/Sprint3Report.pdf Graphic file (type pdf)
  <use SprintReports/Sprint3/Sprint3Report.pdf, page 1>
@@ -2432,7 +2432,7 @@ Package pdftex.def Info: SprintReports/Sprint3/Sprint3Report.pdf, page1 used on
  input line 9.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [8 <./SprintReports/Sprint3/Sprint3Report.pdf>]
-<SprintReports/Sprint3/Sprint3Report.pdf, id=1503, page=2, 614.295pt x 794.97pt
+<SprintReports/Sprint3/Sprint3Report.pdf, id=1504, page=2, 614.295pt x 794.97pt
 >
 File: SprintReports/Sprint3/Sprint3Report.pdf Graphic file (type pdf)
  <use SprintReports/Sprint3/Sprint3Report.pdf, page 2>
@@ -2452,7 +2452,7 @@ Package pdftex.def Info: SprintReports/Sprint3/Sprint3Report.pdf, page2 used on
  input line 9.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [9 <./SprintReports/Sprint3/Sprint3Report.pdf>]
-<SprintReports/Sprint3/Sprint3Report.pdf, id=1509, page=3, 614.295pt x 794.97pt
+<SprintReports/Sprint3/Sprint3Report.pdf, id=1510, page=3, 614.295pt x 794.97pt
 >
 File: SprintReports/Sprint3/Sprint3Report.pdf Graphic file (type pdf)
  <use SprintReports/Sprint3/Sprint3Report.pdf, page 3>
@@ -2472,7 +2472,7 @@ Package pdftex.def Info: SprintReports/Sprint3/Sprint3Report.pdf, page3 used on
  input line 9.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [10 <./SprintReports/Sprint3/Sprint3Report.pdf>]
-<SprintReports/Sprint3/Sprint3Report.pdf, id=1516, page=4, 614.295pt x 794.97pt
+<SprintReports/Sprint3/Sprint3Report.pdf, id=1517, page=4, 614.295pt x 794.97pt
 >
 File: SprintReports/Sprint3/Sprint3Report.pdf Graphic file (type pdf)
  <use SprintReports/Sprint3/Sprint3Report.pdf, page 4>
@@ -2492,7 +2492,7 @@ Package pdftex.def Info: SprintReports/Sprint3/Sprint3Report.pdf, page4 used on
  input line 9.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [11 <./SprintReports/Sprint3/Sprint3Report.pdf>]
-<SprintReports/Sprint3/Sprint3Report.pdf, id=1522, page=5, 614.295pt x 794.97pt
+<SprintReports/Sprint3/Sprint3Report.pdf, id=1523, page=5, 614.295pt x 794.97pt
 >
 File: SprintReports/Sprint3/Sprint3Report.pdf Graphic file (type pdf)
  <use SprintReports/Sprint3/Sprint3Report.pdf, page 5>
@@ -2512,7 +2512,7 @@ Package pdftex.def Info: SprintReports/Sprint3/Sprint3Report.pdf, page5 used on
  input line 9.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [12 <./SprintReports/Sprint3/Sprint3Report.pdf>]
-<SprintReports/Sprint4/sprint4review.pdf, id=1527, 614.295pt x 794.97pt>
+<SprintReports/Sprint4/sprint4review.pdf, id=1528, 614.295pt x 794.97pt>
 File: SprintReports/Sprint4/sprint4review.pdf Graphic file (type pdf)
 
 <use SprintReports/Sprint4/sprint4review.pdf>
@@ -2526,7 +2526,7 @@ Package pdftex.def Info: SprintReports/Sprint4/sprint4review.pdf used on input
 line 12.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<SprintReports/Sprint4/sprint4review.pdf, id=1530, page=1, 614.295pt x 794.97pt
+<SprintReports/Sprint4/sprint4review.pdf, id=1531, page=1, 614.295pt x 794.97pt
 >
 File: SprintReports/Sprint4/sprint4review.pdf Graphic file (type pdf)
  <use SprintReports/Sprint4/sprint4review.pdf, page 1>
@@ -2559,7 +2559,7 @@ Package pdftex.def Info: SprintReports/Sprint4/sprint4review.pdf, page1 used on
  input line 12.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [14 <./SprintReports/Sprint4/sprint4review.pdf>]
-<SprintReports/Sprint4/sprint4review.pdf, id=1670, page=2, 614.295pt x 794.97pt
+<SprintReports/Sprint4/sprint4review.pdf, id=1671, page=2, 614.295pt x 794.97pt
 >
 File: SprintReports/Sprint4/sprint4review.pdf Graphic file (type pdf)
  <use SprintReports/Sprint4/sprint4review.pdf, page 2>
@@ -2579,7 +2579,7 @@ Package pdftex.def Info: SprintReports/Sprint4/sprint4review.pdf, page2 used on
  input line 12.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [15 <./SprintReports/Sprint4/sprint4review.pdf>]
-<SprintReports/Sprint4/sprint4review.pdf, id=1676, page=3, 614.295pt x 794.97pt
+<SprintReports/Sprint4/sprint4review.pdf, id=1677, page=3, 614.295pt x 794.97pt
 >
 File: SprintReports/Sprint4/sprint4review.pdf Graphic file (type pdf)
  <use SprintReports/Sprint4/sprint4review.pdf, page 3>
@@ -2599,7 +2599,7 @@ Package pdftex.def Info: SprintReports/Sprint4/sprint4review.pdf, page3 used on
  input line 12.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [16 <./SprintReports/Sprint4/sprint4review.pdf>]
-<SprintReports/Sprint4/sprint4review.pdf, id=1686, page=4, 614.295pt x 794.97pt
+<SprintReports/Sprint4/sprint4review.pdf, id=1687, page=4, 614.295pt x 794.97pt
 >
 File: SprintReports/Sprint4/sprint4review.pdf Graphic file (type pdf)
  <use SprintReports/Sprint4/sprint4review.pdf, page 4>
@@ -2619,7 +2619,7 @@ Package pdftex.def Info: SprintReports/Sprint4/sprint4review.pdf, page4 used on
  input line 12.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [17 <./SprintReports/Sprint4/sprint4review.pdf>]
-<SprintReports/Sprint4/sprint4review.pdf, id=1698, page=5, 614.295pt x 794.97pt
+<SprintReports/Sprint4/sprint4review.pdf, id=1699, page=5, 614.295pt x 794.97pt
 >
 File: SprintReports/Sprint4/sprint4review.pdf Graphic file (type pdf)
  <use SprintReports/Sprint4/sprint4review.pdf, page 5>
@@ -2639,7 +2639,7 @@ Package pdftex.def Info: SprintReports/Sprint4/sprint4review.pdf, page5 used on
  input line 12.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [18 <./SprintReports/Sprint4/sprint4review.pdf>]
-<SprintReports/Sprint4/sprint4review.pdf, id=1710, page=6, 614.295pt x 794.97pt
+<SprintReports/Sprint4/sprint4review.pdf, id=1711, page=6, 614.295pt x 794.97pt
 >
 File: SprintReports/Sprint4/sprint4review.pdf Graphic file (type pdf)
  <use SprintReports/Sprint4/sprint4review.pdf, page 6>
@@ -2659,7 +2659,7 @@ Package pdftex.def Info: SprintReports/Sprint4/sprint4review.pdf, page6 used on
  input line 12.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [19 <./SprintReports/Sprint4/sprint4review.pdf>]
-<SprintReports/Sprint4/sprint4review.pdf, id=1720, page=7, 614.295pt x 794.97pt
+<SprintReports/Sprint4/sprint4review.pdf, id=1721, page=7, 614.295pt x 794.97pt
 >
 File: SprintReports/Sprint4/sprint4review.pdf Graphic file (type pdf)
  <use SprintReports/Sprint4/sprint4review.pdf, page 7>
@@ -2679,7 +2679,7 @@ Package pdftex.def Info: SprintReports/Sprint4/sprint4review.pdf, page7 used on
  input line 12.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [20 <./SprintReports/Sprint4/sprint4review.pdf>]
-<SprintReports/Sprint5/sprint5review.pdf, id=1730, 614.295pt x 794.97pt>
+<SprintReports/Sprint5/sprint5review.pdf, id=1731, 614.295pt x 794.97pt>
 File: SprintReports/Sprint5/sprint5review.pdf Graphic file (type pdf)
 
 <use SprintReports/Sprint5/sprint5review.pdf>
@@ -2693,7 +2693,7 @@ Package pdftex.def Info: SprintReports/Sprint5/sprint5review.pdf used on input
 line 15.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<SprintReports/Sprint5/sprint5review.pdf, id=1733, page=1, 614.295pt x 794.97pt
+<SprintReports/Sprint5/sprint5review.pdf, id=1734, page=1, 614.295pt x 794.97pt
 >
 File: SprintReports/Sprint5/sprint5review.pdf Graphic file (type pdf)
  <use SprintReports/Sprint5/sprint5review.pdf, page 1>
@@ -2726,7 +2726,7 @@ Package pdftex.def Info: SprintReports/Sprint5/sprint5review.pdf, page1 used on
  input line 15.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [22 <./SprintReports/Sprint5/sprint5review.pdf>]
-<SprintReports/Sprint5/sprint5review.pdf, id=1861, page=2, 614.295pt x 794.97pt
+<SprintReports/Sprint5/sprint5review.pdf, id=1862, page=2, 614.295pt x 794.97pt
 >
 File: SprintReports/Sprint5/sprint5review.pdf Graphic file (type pdf)
  <use SprintReports/Sprint5/sprint5review.pdf, page 2>
@@ -2746,7 +2746,7 @@ Package pdftex.def Info: SprintReports/Sprint5/sprint5review.pdf, page2 used on
  input line 15.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [23 <./SprintReports/Sprint5/sprint5review.pdf>]
-<SprintReports/Sprint5/sprint5review.pdf, id=1866, page=3, 614.295pt x 794.97pt
+<SprintReports/Sprint5/sprint5review.pdf, id=1867, page=3, 614.295pt x 794.97pt
 >
 File: SprintReports/Sprint5/sprint5review.pdf Graphic file (type pdf)
  <use SprintReports/Sprint5/sprint5review.pdf, page 3>
@@ -2766,7 +2766,7 @@ Package pdftex.def Info: SprintReports/Sprint5/sprint5review.pdf, page3 used on
  input line 15.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [24 <./SprintReports/Sprint5/sprint5review.pdf>]
-<SprintReports/Sprint5/sprint5review.pdf, id=1872, page=4, 614.295pt x 794.97pt
+<SprintReports/Sprint5/sprint5review.pdf, id=1873, page=4, 614.295pt x 794.97pt
 >
 File: SprintReports/Sprint5/sprint5review.pdf Graphic file (type pdf)
  <use SprintReports/Sprint5/sprint5review.pdf, page 4>
@@ -2894,8 +2894,8 @@ Package rerunfilecheck Warning: File `DesignDocument.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `DesignDocument.out':
-(rerunfilecheck)             Before: EA15228091629688F2529B300C8EE3AD;11731
-(rerunfilecheck)             After:  E54CC648CFAB50CDDB070B132DFCDD51;11641.
+(rerunfilecheck)             Before: E54CC648CFAB50CDDB070B132DFCDD51;11641
+(rerunfilecheck)             After:  528C40E76F08AF7D2197C2EB914C4906;11640.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 113.
  ) 
 Here is how much of TeX's memory you used:
@@ -2929,9 +2929,9 @@ ublic/lm/lmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lm
 sy7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmtt10.pfb><C:
 /Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program
  Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on DesignDocument.pdf (106 pages, 16556435 bytes).
+Output written on DesignDocument.pdf (106 pages, 16557056 bytes).
 PDF statistics:
- 2073 PDF objects out of 2073 (max. 8388607)
+ 2074 PDF objects out of 2487 (max. 8388607)
  352 named destinations out of 1000 (max. 500000)
  1734 words of extra memory for PDF output out of 10000 (max. 10000000)
 
